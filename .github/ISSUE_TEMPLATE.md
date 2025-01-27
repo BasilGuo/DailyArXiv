@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 26, 2025
+title: Latest 15 Papers - January 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -70,7 +70,7 @@ labels: documentation
 | **[FedGrAINS: Personalized SubGraph Federated Learning with Adaptive Neighbor Sampling](http://arxiv.org/abs/2501.12592v2)** | 2025-01-23 | <details><summary>Accep...</summary><p>Accepted to SDM2025 (SIAM Data Mining 2025)</p></details> |
 | **[VARFVV: View-Adaptive Real-Time Interactive Free-View Video Streaming with Edge Computing](http://arxiv.org/abs/2501.13630v1)** | 2025-01-23 |  |
 | **[GCAD: Anomaly Detection in Multivariate Time Series from the Perspective of Granger Causality](http://arxiv.org/abs/2501.13493v1)** | 2025-01-23 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025</p></details> |
-| **[MeshMask: Physics-Based Simulations with Masked Graph Neural Networks](http://arxiv.org/abs/2501.08738v2)** | 2025-01-23 |  |
+| **[MeshMask: Physics-Based Simulations with Masked Graph Neural Networks](http://arxiv.org/abs/2501.08738v3)** | 2025-01-24 |  |
 | **[RIDA: A Robust Attack Framework on Incomplete Graphs](http://arxiv.org/abs/2407.18170v2)** | 2025-01-23 |  |
 | **[Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](http://arxiv.org/abs/2405.13707v2)** | 2025-01-23 | <details><summary>ACM W...</summary><p>ACM Web Conference 2025 (WWW '25)</p></details> |
 | **[KAA: Kolmogorov-Arnold Attention for Enhancing Attentive Graph Neural Networks](http://arxiv.org/abs/2501.13456v1)** | 2025-01-23 |  |

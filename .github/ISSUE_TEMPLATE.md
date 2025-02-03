@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 02, 2025
+title: Latest 15 Papers - February 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -27,20 +27,6 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[CryptoDNA: A Machine Learning Paradigm for DDoS Detection in Healthcare IoT, Inspired by crypto jacking prevention Models](http://arxiv.org/abs/2501.18549v1)** | 2025-01-30 | <details><summary>6 pag...</summary><p>6 pages, 8 figures, under review</p></details> |
-| **[Density Matrix Emulation of Quantum Recurrent Neural Networks for Multivariate Time Series Prediction](http://arxiv.org/abs/2310.20671v2)** | 2025-01-30 | 19 pages, 8 figures |
-| **[Fold Bifurcation Identification through Scientific Machine Learning](http://arxiv.org/abs/2312.14210v2)** | 2025-01-30 |  |
-| **[Real-Time Decision-Making for Digital Twin in Additive Manufacturing with Model Predictive Control using Time-Series Deep Neural Networks](http://arxiv.org/abs/2501.07601v2)** | 2025-01-30 |  |
-| **[A Learnable Multi-views Contrastive Framework with Reconstruction Discrepancy for Medical Time-Series](http://arxiv.org/abs/2501.18367v1)** | 2025-01-30 | 15 pages,6 figures |
-| **[LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v3)** | 2025-01-30 | <details><summary>8 pag...</summary><p>8 pages with referencing, 1 figure, 5 tables</p></details> |
-| **[Reducing Aleatoric and Epistemic Uncertainty through Multi-modal Data Acquisition](http://arxiv.org/abs/2501.18268v1)** | 2025-01-30 |  |
-| **[Unsupervised Learning in Echo State Networks for Input Reconstruction](http://arxiv.org/abs/2501.11409v2)** | 2025-01-30 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, regular paper</p></details> |
-| **[Stack Overflow Meets Replication: Security Research Amid Evolving Code Snippets (Extended Version)](http://arxiv.org/abs/2501.16948v2)** | 2025-01-30 |  |
-| **[Network Weighted Functional Regression: a method for modeling dependencies between functional data in a network](http://arxiv.org/abs/2501.18221v1)** | 2025-01-30 |  |
-| **[Beyond Predictions in Neural ODEs: Identification and Interventions](http://arxiv.org/abs/2106.12430v2)** | 2025-01-30 |  |
-| **[GDformer: Going Beyond Subsequence Isolation for Multivariate Time Series Anomaly Detection](http://arxiv.org/abs/2501.18196v1)** | 2025-01-30 |  |
-| **[A spectral clustering-type algorithm for the consistent estimation of the Hurst distribution in moderately high dimensions](http://arxiv.org/abs/2501.18115v1)** | 2025-01-30 |  |
-| **[Learning the Optimal Stopping for Early Classification within Finite Horizons via Sequential Probability Ratio Test](http://arxiv.org/abs/2501.18059v1)** | 2025-01-29 | <details><summary>Accep...</summary><p>Accepted to International Conference on Learning Representations (ICLR) 2025</p></details> |
-| **[KoopAGRU: A Koopman-based Anomaly Detection in Time-Series using Gated Recurrent Units](http://arxiv.org/abs/2501.17976v1)** | 2025-01-29 |  |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
@@ -64,7 +50,7 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Node Classification and Search on the Rubik's Cube Graph with GNNs](http://arxiv.org/abs/2501.18580v1)** | 2025-01-30 |  |
+| **[Node Classification and Search on the Rubik's Cube Graph with GNNs](http://arxiv.org/abs/2501.18580v2)** | 2025-01-31 |  |
 | **[MolGraph-xLSTM: A graph-based dual-level xLSTM framework with multi-head mixture-of-experts for enhanced molecular representation and interpretability](http://arxiv.org/abs/2501.18439v1)** | 2025-01-30 |  |
 | **[A Cartesian Encoding Graph Neural Network for Crystal Structures Property Prediction: Application to Thermal Ellipsoid Estimation](http://arxiv.org/abs/2501.18369v1)** | 2025-01-30 |  |
 | **[Contrastive Learning Meets Pseudo-label-assisted Mixup Augmentation: A Comprehensive Graph Representation Framework from Local to Global](http://arxiv.org/abs/2501.18357v1)** | 2025-01-30 | 9 pages, 2 figures |

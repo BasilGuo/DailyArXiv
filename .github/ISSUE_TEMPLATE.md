@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 24, 2025
+title: Latest 15 Papers - February 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -73,6 +73,7 @@ labels: documentation
 ## SAV
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimal convergence analysis of fully discrete SAVs-FEM for the Cahn-Hilliard-Navier-Stokes equations](http://arxiv.org/abs/2502.15234v1)** | 2025-02-21 |  |
 | **[A virtual element method with IMEX-SAV scheme for the incompressible magnetohydrodynamics equations](http://arxiv.org/abs/2410.18384v1)** | 2024-10-24 |  |
 | **[SAV-based entropy-dissipative schemes for a class of kinetic equations](http://arxiv.org/abs/2408.16105v2)** | 2024-08-30 | 20 pages, 6 figures |
 | **[Scalar auxiliary variable (SAV) stabilization of implicit-explicit (IMEX) time integration schemes for nonlinear structural dynamics](http://arxiv.org/abs/2406.02839v1)** | 2024-06-05 | <details><summary>48 pa...</summary><p>48 pages, 17 figures, 3 tables</p></details> |
@@ -87,7 +88,6 @@ labels: documentation
 | **[A unconditionally energy dissipative, adaptive IMEX BDF2 scheme and its error estimates for Cahn-Hilliard equation on generalized SAV approach](http://arxiv.org/abs/2211.02018v1)** | 2022-11-03 | 24 pages |
 | **[Unconditional stability and error analysis of an Euler IMEX-SAV scheme for the micropolar Navier-Stokes equations](http://arxiv.org/abs/2210.02670v1)** | 2022-10-06 | <details><summary>27 pa...</summary><p>27 pages, 39 figures. arXiv admin note: text overlap with arXiv:2104.00229 by other authors</p></details> |
 | **[Semi-implicit energy-preserving numerical schemes for stochastic wave equation via SAV approach](http://arxiv.org/abs/2208.13394v1)** | 2022-08-29 |  |
-| **[Highly efficient exponential scalar auxiliary variable approaches with relaxation (RE-SAV) for gradient flows](http://arxiv.org/abs/2204.06258v1)** | 2022-04-13 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2010.11728, arXiv:2001.00812</p></details> |
 
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |

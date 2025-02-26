@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 25, 2025
+title: Latest 15 Papers - February 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -97,8 +97,4 @@ labels: documentation
 | **[Guardians of DNS Integrity: A Remote Method for Identifying DNSSEC Validators Across the Internet](http://arxiv.org/abs/2405.19851v1)** | 2024-05-30 |  |
 | **[Your Router is My Prober: Measuring IPv6 Networks via ICMP Rate Limiting Side Channels](http://arxiv.org/abs/2210.13088v3)** | 2023-05-13 |  |
 | **[The Closed Resolver Project: Measuring the Deployment of Source Address Validation of Inbound Traffic](http://arxiv.org/abs/2006.05277v2)** | 2023-03-15 |  |
-| **[Source Address Validation](http://arxiv.org/abs/2301.09952v1)** | 2023-01-24 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2006.05277, arXiv:2002.00441</p></details> |
-| **[Subverting Stateful Firewalls with Protocol States (Extended Version)](http://arxiv.org/abs/2112.09604v5)** | 2022-08-31 | <details><summary>A sho...</summary><p>A shorter version of this paper is to be presented in NDSS 2022. UPDATE 2021-12-25: Added CVE numbers for Linux and NetBSD. UPDATE 2022-04-13: Fixed some typos, missing words, clarified the meaning of connection-less, named the experiment locations. UPDATE 2022-08-31: re-introduced using NetFilter NumGen to generate random IPv4 IDs (now that NumGen is generated securely)</p></details> |
-| **[Don't Forget to Lock the Front Door! Inferring the Deployment of Source Address Validation of Inbound Traffic](http://arxiv.org/abs/2002.00441v1)** | 2020-02-02 |  |
-| **[SafeZone: A Hierarchical Inter-Domain Authenticated Source Address Validation Solution](http://arxiv.org/abs/1103.3766v1)** | 2011-03-19 |  |
 

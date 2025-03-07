@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 06, 2025
+title: Latest 15 Papers - March 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,7 @@ labels: documentation
 ## Border Gateway Protocol
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Latency-Aware Inter-domain Routing](http://arxiv.org/abs/2410.13019v1)** | 2024-10-16 |  |
+| **[Latency-Aware Inter-domain Routing](http://arxiv.org/abs/2410.13019v2)** | 2025-03-06 |  |
 | **[Ain't How You Deploy: An Analysis of BGP Security Policies Performance Against Various Attack Scenarios with Differing Deployment Strategies](http://arxiv.org/abs/2408.15970v1)** | 2024-08-28 | <details><summary>8 pag...</summary><p>8 pages, 1 table, 8 figures, submitted to and accepted by IEEE ISNCC'24</p></details> |
 | **[Global BGP Attacks that Evade Route Monitoring](http://arxiv.org/abs/2408.09622v1)** | 2024-08-19 | 10 pages |
 | **[Secure Inter-domain Routing and Forwarding via Verifiable Forwarding Commitments](http://arxiv.org/abs/2309.13271v2)** | 2023-11-09 | 16 pages, 17 figures |

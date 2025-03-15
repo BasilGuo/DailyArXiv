@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 14, 2025
+title: Latest 15 Papers - March 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -73,6 +73,7 @@ labels: documentation
 ## SAV
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Highly efficient norm preserving numerical schemes for micromagnetic energy minimization based on SAV method](http://arxiv.org/abs/2503.10179v1)** | 2025-03-13 |  |
 | **[Optimal convergence analysis of fully discrete SAVs-FEM for the Cahn-Hilliard-Navier-Stokes equations](http://arxiv.org/abs/2502.15234v1)** | 2025-02-21 |  |
 | **[A virtual element method with IMEX-SAV scheme for the incompressible magnetohydrodynamics equations](http://arxiv.org/abs/2410.18384v1)** | 2024-10-24 |  |
 | **[SAV-based entropy-dissipative schemes for a class of kinetic equations](http://arxiv.org/abs/2408.16105v2)** | 2024-08-30 | 20 pages, 6 figures |
@@ -87,7 +88,6 @@ labels: documentation
 | **[Error estimates for the scalar auxiliary variable (SAV) scheme to the Cahn-Hilliard equation](http://arxiv.org/abs/2211.13555v2)** | 2022-12-07 | 25 pages, 8 figures |
 | **[A unconditionally energy dissipative, adaptive IMEX BDF2 scheme and its error estimates for Cahn-Hilliard equation on generalized SAV approach](http://arxiv.org/abs/2211.02018v1)** | 2022-11-03 | 24 pages |
 | **[Unconditional stability and error analysis of an Euler IMEX-SAV scheme for the micropolar Navier-Stokes equations](http://arxiv.org/abs/2210.02670v1)** | 2022-10-06 | <details><summary>27 pa...</summary><p>27 pages, 39 figures. arXiv admin note: text overlap with arXiv:2104.00229 by other authors</p></details> |
-| **[Semi-implicit energy-preserving numerical schemes for stochastic wave equation via SAV approach](http://arxiv.org/abs/2208.13394v1)** | 2022-08-29 |  |
 
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 24, 2025
+title: Latest 15 Papers - April 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -73,6 +73,7 @@ labels: documentation
 ## SAV
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploring human-SAV interaction using large language models: The impact of psychological ownership and anthropomorphism on user experience](http://arxiv.org/abs/2504.16548v1)** | 2025-04-23 |  |
 | **[Consistent splitting SAV schemes for finite element approximations of incompressible flows](http://arxiv.org/abs/2503.20474v1)** | 2025-03-26 |  |
 | **[Highly efficient norm preserving numerical schemes for micromagnetic energy minimization based on SAV method](http://arxiv.org/abs/2503.10179v1)** | 2025-03-13 |  |
 | **[Optimal convergence analysis of fully discrete SAVs-FEM for the Cahn-Hilliard-Navier-Stokes equations](http://arxiv.org/abs/2502.15234v1)** | 2025-02-21 |  |
@@ -87,7 +88,6 @@ labels: documentation
 | **[Efficient and accurate exponential SAV algorithms with relaxation for dissipative system](http://arxiv.org/abs/2303.00222v1)** | 2023-03-01 | <details><summary>27 pa...</summary><p>27 pages, 16 figures, 5 tables</p></details> |
 | **[A sturcture-preserving, upwind-SAV scheme for the degenerate Cahn--Hilliard equation with applications to simulating surface diffusion](http://arxiv.org/abs/2210.16017v3)** | 2023-02-28 |  |
 | **[Error estimates for the scalar auxiliary variable (SAV) scheme to the Cahn-Hilliard equation](http://arxiv.org/abs/2211.13555v2)** | 2022-12-07 | 25 pages, 8 figures |
-| **[A unconditionally energy dissipative, adaptive IMEX BDF2 scheme and its error estimates for Cahn-Hilliard equation on generalized SAV approach](http://arxiv.org/abs/2211.02018v1)** | 2022-11-03 | 24 pages |
 
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |

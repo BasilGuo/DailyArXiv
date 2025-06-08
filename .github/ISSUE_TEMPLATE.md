@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 06, 2025
+title: Latest 15 Papers - June 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## BGP
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BEAR: BGP Event Analysis and Reporting](http://arxiv.org/abs/2506.04514v1)** | 2025-06-04 |  |
 | **[Ain't How You Deploy: An Analysis of BGP Security Policies Performance Against Various Attack Scenarios with Differing Deployment Strategies](http://arxiv.org/abs/2408.15970v1)** | 2024-08-28 | <details><summary>8 pag...</summary><p>8 pages, 1 table, 8 figures, submitted to and accepted by IEEE ISNCC'24</p></details> |
 | **[Global BGP Attacks that Evade Route Monitoring](http://arxiv.org/abs/2408.09622v1)** | 2024-08-19 | 10 pages |
 | **[MAD-MulW: A Multi-Window Anomaly Detection Framework for BGP Security Events](http://arxiv.org/abs/2312.11225v1)** | 2023-12-18 | 10 pages, 8 figures |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Performance Analysis of Multipath BGP](http://arxiv.org/abs/2103.07683v2)** | 2021-03-29 | <details><summary>IEEE ...</summary><p>IEEE Global Internet (GI) Symposium 2021</p></details> |
 | **[BGPeek-a-Boo: Active BGP-based Traceback for Amplification DDoS Attacks](http://arxiv.org/abs/2103.08440v1)** | 2021-03-15 | <details><summary>6th I...</summary><p>6th IEEE European Symposium on Security and Privacy (EuroS&P) 2021 ; \copyright 2021 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses</p></details> |
 | **[Using Bursty Announcements for Detecting BGP Routing Anomalies](http://arxiv.org/abs/1905.05835v2)** | 2021-01-29 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 4 table</p></details> |
-| **[Anatomy of Multipath BGP Deployment in a Large ISP Network](http://arxiv.org/abs/2012.07730v1)** | 2020-12-14 | <details><summary>9 pag...</summary><p>9 pages, 7 figures; TMA 2020 conference, http://dl.ifip.org/db/conf/tma/tma2020/index.html</p></details> |
 
 ## Border Gateway Protocol
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BEAR: BGP Event Analysis and Reporting](http://arxiv.org/abs/2506.04514v1)** | 2025-06-04 |  |
 | **[Latency-Aware Inter-domain Routing](http://arxiv.org/abs/2410.13019v2)** | 2025-03-06 |  |
 | **[Ain't How You Deploy: An Analysis of BGP Security Policies Performance Against Various Attack Scenarios with Differing Deployment Strategies](http://arxiv.org/abs/2408.15970v1)** | 2024-08-28 | <details><summary>8 pag...</summary><p>8 pages, 1 table, 8 figures, submitted to and accepted by IEEE ISNCC'24</p></details> |
 | **[Global BGP Attacks that Evade Route Monitoring](http://arxiv.org/abs/2408.09622v1)** | 2024-08-19 | 10 pages |
@@ -40,7 +41,6 @@ labels: documentation
 | **[The geopolitics behind the routes data travels: a case study of Iran](http://arxiv.org/abs/1911.07723v2)** | 2019-11-19 |  |
 | **[Validating IP Prefixes and AS-Paths with Blockchains](http://arxiv.org/abs/1906.03172v1)** | 2019-06-07 | <details><summary>draft...</summary><p>draft report on BGP blockchain PoC</p></details> |
 | **[The (thin) Bridges of AS Connectivity: Measuring Dependency using AS Hegemony](http://arxiv.org/abs/1711.02805v1)** | 2017-11-08 |  |
-| **[Towards Near Real-Time BGP Deep Analysis: A Big-Data Approach](http://arxiv.org/abs/1705.08666v1)** | 2017-05-24 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, 2 Tables, submitted to ACM Internet Measurement Conference 2017</p></details> |
 
 ## BGP Security
 | **Title** | **Date** | **Comment** |
@@ -92,6 +92,7 @@ labels: documentation
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Grey Rhino Warning: IPv6 is Becoming Fertile Ground for Reflection Amplification Attacks](http://arxiv.org/abs/2506.04768v1)** | 2025-06-05 | <details><summary>This ...</summary><p>This paper has been accepted by IWQoS 2025 as a short paper</p></details> |
 | **[Martians Among Us: Observing Private or Reserved IPs on the Public Internet](http://arxiv.org/abs/2501.16805v1)** | 2025-01-28 |  |
 | **[A Multicast Scheme for Live Streaming Courses in Large-Scale, Geographically Dense Campus Networks](http://arxiv.org/abs/2411.06334v1)** | 2024-11-10 |  |
 | **[Guardians of DNS Integrity: A Remote Method for Identifying DNSSEC Validators Across the Internet](http://arxiv.org/abs/2405.19851v1)** | 2024-05-30 |  |

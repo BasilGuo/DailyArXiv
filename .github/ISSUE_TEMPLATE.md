@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 23, 2025
+title: Latest 15 Papers - June 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## BGP
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages](http://arxiv.org/abs/2506.17821v1)** | 2025-06-21 |  |
 | **[BEAR: BGP Event Analysis and Reporting](http://arxiv.org/abs/2506.04514v1)** | 2025-06-04 |  |
 | **[Ain't How You Deploy: An Analysis of BGP Security Policies Performance Against Various Attack Scenarios with Differing Deployment Strategies](http://arxiv.org/abs/2408.15970v1)** | 2024-08-28 | <details><summary>8 pag...</summary><p>8 pages, 1 table, 8 figures, submitted to and accepted by IEEE ISNCC'24</p></details> |
 | **[Global BGP Attacks that Evade Route Monitoring](http://arxiv.org/abs/2408.09622v1)** | 2024-08-19 | 10 pages |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Estimating the Impact of BGP Prefix Hijacking](http://arxiv.org/abs/2105.02346v1)** | 2021-05-05 | <details><summary>IFIP ...</summary><p>IFIP Networking conference 2021</p></details> |
 | **[Performance Analysis of Multipath BGP](http://arxiv.org/abs/2103.07683v2)** | 2021-03-29 | <details><summary>IEEE ...</summary><p>IEEE Global Internet (GI) Symposium 2021</p></details> |
 | **[BGPeek-a-Boo: Active BGP-based Traceback for Amplification DDoS Attacks](http://arxiv.org/abs/2103.08440v1)** | 2021-03-15 | <details><summary>6th I...</summary><p>6th IEEE European Symposium on Security and Privacy (EuroS&P) 2021 ; \copyright 2021 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses</p></details> |
-| **[Using Bursty Announcements for Detecting BGP Routing Anomalies](http://arxiv.org/abs/1905.05835v2)** | 2021-01-29 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, 4 table</p></details> |
 
 ## Border Gateway Protocol
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages](http://arxiv.org/abs/2506.17821v1)** | 2025-06-21 |  |
 | **[BEAR: BGP Event Analysis and Reporting](http://arxiv.org/abs/2506.04514v1)** | 2025-06-04 |  |
 | **[Latency-Aware Inter-domain Routing](http://arxiv.org/abs/2410.13019v2)** | 2025-03-06 |  |
 | **[Ain't How You Deploy: An Analysis of BGP Security Policies Performance Against Various Attack Scenarios with Differing Deployment Strategies](http://arxiv.org/abs/2408.15970v1)** | 2024-08-28 | <details><summary>8 pag...</summary><p>8 pages, 1 table, 8 figures, submitted to and accepted by IEEE ISNCC'24</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Improving PKI, BGP, and DNS Using Blockchain: A Systematic Review](http://arxiv.org/abs/2001.00747v1)** | 2020-01-03 | <details><summary>6 Pag...</summary><p>6 Pages, 2 Figures, ISC Turkey</p></details> |
 | **[The geopolitics behind the routes data travels: a case study of Iran](http://arxiv.org/abs/1911.07723v2)** | 2019-11-19 |  |
 | **[Validating IP Prefixes and AS-Paths with Blockchains](http://arxiv.org/abs/1906.03172v1)** | 2019-06-07 | <details><summary>draft...</summary><p>draft report on BGP blockchain PoC</p></details> |
-| **[The (thin) Bridges of AS Connectivity: Measuring Dependency using AS Hegemony](http://arxiv.org/abs/1711.02805v1)** | 2017-11-08 |  |
 
 ## BGP Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages](http://arxiv.org/abs/2506.17821v1)** | 2025-06-21 |  |
 | **[Ain't How You Deploy: An Analysis of BGP Security Policies Performance Against Various Attack Scenarios with Differing Deployment Strategies](http://arxiv.org/abs/2408.15970v1)** | 2024-08-28 | <details><summary>8 pag...</summary><p>8 pages, 1 table, 8 figures, submitted to and accepted by IEEE ISNCC'24</p></details> |
 | **[Global BGP Attacks that Evade Route Monitoring](http://arxiv.org/abs/2408.09622v1)** | 2024-08-19 | 10 pages |
 | **[MAD-MulW: A Multi-Window Anomaly Detection Framework for BGP Security Events](http://arxiv.org/abs/2312.11225v1)** | 2023-12-18 | 10 pages, 8 figures |

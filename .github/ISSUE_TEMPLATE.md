@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 25, 2025
+title: Latest 15 Papers - June 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## BGP
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Detailed Measurement View on IPv6 Scanners and Their Adaption to BGP Signals](http://arxiv.org/abs/2506.20383v1)** | 2025-06-25 |  |
 | **[The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages](http://arxiv.org/abs/2506.17821v1)** | 2025-06-21 |  |
 | **[BEAR: BGP Event Analysis and Reporting](http://arxiv.org/abs/2506.04514v1)** | 2025-06-04 |  |
 | **[Ain't How You Deploy: An Analysis of BGP Security Policies Performance Against Various Attack Scenarios with Differing Deployment Strategies](http://arxiv.org/abs/2408.15970v1)** | 2024-08-28 | <details><summary>8 pag...</summary><p>8 pages, 1 table, 8 figures, submitted to and accepted by IEEE ISNCC'24</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[AS-Level BGP Community Usage Classification](http://arxiv.org/abs/2110.03816v1)** | 2021-10-07 |  |
 | **[Estimating the Impact of BGP Prefix Hijacking](http://arxiv.org/abs/2105.02346v1)** | 2021-05-05 | <details><summary>IFIP ...</summary><p>IFIP Networking conference 2021</p></details> |
 | **[Performance Analysis of Multipath BGP](http://arxiv.org/abs/2103.07683v2)** | 2021-03-29 | <details><summary>IEEE ...</summary><p>IEEE Global Internet (GI) Symposium 2021</p></details> |
-| **[BGPeek-a-Boo: Active BGP-based Traceback for Amplification DDoS Attacks](http://arxiv.org/abs/2103.08440v1)** | 2021-03-15 | <details><summary>6th I...</summary><p>6th IEEE European Symposium on Security and Privacy (EuroS&P) 2021 ; \copyright 2021 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses</p></details> |
 
 ## Border Gateway Protocol
 | **Title** | **Date** | **Comment** |

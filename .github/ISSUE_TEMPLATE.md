@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2025
+title: Latest 15 Papers - July 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -57,6 +57,7 @@ labels: documentation
 ## RPKI
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A new efficient RPKI Design](http://arxiv.org/abs/2507.01465v1)** | 2025-07-02 |  |
 | **[Learning to Identify Conflicts in RPKI](http://arxiv.org/abs/2502.03378v1)** | 2025-02-05 |  |
 | **[RPKI-Based Location-Unaware Tor Guard Relay Selection Algorithms](http://arxiv.org/abs/2501.06010v1)** | 2025-01-10 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, for data and intermediate results see: https://torstudy.cs.virginia.edu/ , to be published in Issue 2 of PoPETs 2025</p></details> |
 | **[Poster: From Fort to Foe: The Threat of RCE in RPKI](http://arxiv.org/abs/2411.16518v1)** | 2024-11-25 | <details><summary>In Pr...</summary><p>In Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS '24), October 14-18, 2024, Salt Lake City, UT, USA. ACM, New York, NY, USA, 3 pages</p></details> |

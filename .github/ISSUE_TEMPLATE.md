@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 19, 2025
+title: Latest 15 Papers - July 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -31,16 +31,6 @@ labels: documentation
 | **[Latency-Aware Inter-domain Routing](http://arxiv.org/abs/2410.13019v2)** | 2025-03-06 |  |
 | **[Ain't How You Deploy: An Analysis of BGP Security Policies Performance Against Various Attack Scenarios with Differing Deployment Strategies](http://arxiv.org/abs/2408.15970v1)** | 2024-08-28 | <details><summary>8 pag...</summary><p>8 pages, 1 table, 8 figures, submitted to and accepted by IEEE ISNCC'24</p></details> |
 | **[Global BGP Attacks that Evade Route Monitoring](http://arxiv.org/abs/2408.09622v1)** | 2024-08-19 | 10 pages |
-| **[Secure Inter-domain Routing and Forwarding via Verifiable Forwarding Commitments](http://arxiv.org/abs/2309.13271v2)** | 2023-11-09 | 16 pages, 17 figures |
-| **[Creating a Secure Underlay for the Internet](http://arxiv.org/abs/2206.06879v2)** | 2022-06-15 | Usenix Security 2022 |
-| **[Cutting Through the Noise to Infer Autonomous System Topology](http://arxiv.org/abs/2201.07328v1)** | 2022-01-18 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 1 table. To appear at IEEE INFOCOM 2022. \copyright\ IEEE 2022</p></details> |
-| **[A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network](http://arxiv.org/abs/2112.12793v1)** | 2021-12-23 | 12 pages, 8 figures |
-| **[BlockJack: Towards Improved Prevention of IP Prefix Hijacking Attacks in Inter-Domain Routing Via Blockchain](http://arxiv.org/abs/2107.07063v1)** | 2021-07-15 |  |
-| **[APVAS: Reducing Memory Size of AS\_PATH Validation by Using Aggregate Signatures](http://arxiv.org/abs/2008.13346v1)** | 2020-08-31 |  |
-| **[Don't Forget to Lock the Front Door! Inferring the Deployment of Source Address Validation of Inbound Traffic](http://arxiv.org/abs/2002.00441v1)** | 2020-02-02 |  |
-| **[Improving PKI, BGP, and DNS Using Blockchain: A Systematic Review](http://arxiv.org/abs/2001.00747v1)** | 2020-01-03 | <details><summary>6 Pag...</summary><p>6 Pages, 2 Figures, ISC Turkey</p></details> |
-| **[The geopolitics behind the routes data travels: a case study of Iran](http://arxiv.org/abs/1911.07723v2)** | 2019-11-19 |  |
-| **[Validating IP Prefixes and AS-Paths with Blockchains](http://arxiv.org/abs/1906.03172v1)** | 2019-06-07 | <details><summary>draft...</summary><p>draft report on BGP blockchain PoC</p></details> |
 
 ## BGP Security
 | **Title** | **Date** | **Comment** |

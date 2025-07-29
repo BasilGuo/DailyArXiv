@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 28, 2025
+title: Latest 15 Papers - July 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## BGP
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Is Crunching Public Data the Right Approach to Detect BGP Hijacks?](http://arxiv.org/abs/2507.20434v1)** | 2025-07-27 |  |
 | **[A Detailed Measurement View on IPv6 Scanners and Their Adaption to BGP Signals](http://arxiv.org/abs/2506.20383v1)** | 2025-06-25 |  |
 | **[The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages](http://arxiv.org/abs/2506.17821v1)** | 2025-06-21 |  |
 | **[BEAR: BGP Event Analysis and Reporting](http://arxiv.org/abs/2506.04514v1)** | 2025-06-04 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network](http://arxiv.org/abs/2112.12793v1)** | 2021-12-23 | 12 pages, 8 figures |
 | **[AS-Level BGP Community Usage Classification](http://arxiv.org/abs/2110.03816v1)** | 2021-10-07 |  |
 | **[Estimating the Impact of BGP Prefix Hijacking](http://arxiv.org/abs/2105.02346v1)** | 2021-05-05 | <details><summary>IFIP ...</summary><p>IFIP Networking conference 2021</p></details> |
-| **[Performance Analysis of Multipath BGP](http://arxiv.org/abs/2103.07683v2)** | 2021-03-29 | <details><summary>IEEE ...</summary><p>IEEE Global Internet (GI) Symposium 2021</p></details> |
 
 ## Border Gateway Protocol
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Is Crunching Public Data the Right Approach to Detect BGP Hijacks?](http://arxiv.org/abs/2507.20434v1)** | 2025-07-27 |  |
 | **[The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages](http://arxiv.org/abs/2506.17821v1)** | 2025-06-21 |  |
 | **[BEAR: BGP Event Analysis and Reporting](http://arxiv.org/abs/2506.04514v1)** | 2025-06-04 |  |
 | **[Latency-Aware Inter-domain Routing](http://arxiv.org/abs/2410.13019v2)** | 2025-03-06 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Don't Forget to Lock the Front Door! Inferring the Deployment of Source Address Validation of Inbound Traffic](http://arxiv.org/abs/2002.00441v1)** | 2020-02-02 |  |
 | **[Improving PKI, BGP, and DNS Using Blockchain: A Systematic Review](http://arxiv.org/abs/2001.00747v1)** | 2020-01-03 | <details><summary>6 Pag...</summary><p>6 Pages, 2 Figures, ISC Turkey</p></details> |
 | **[The geopolitics behind the routes data travels: a case study of Iran](http://arxiv.org/abs/1911.07723v2)** | 2019-11-19 |  |
-| **[Validating IP Prefixes and AS-Paths with Blockchains](http://arxiv.org/abs/1906.03172v1)** | 2019-06-07 | <details><summary>draft...</summary><p>draft report on BGP blockchain PoC</p></details> |
 
 ## BGP Security
 | **Title** | **Date** | **Comment** |

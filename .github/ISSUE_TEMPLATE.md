@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 31, 2025
+title: Latest 15 Papers - August 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -75,6 +75,7 @@ labels: documentation
 ## SAV
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Convergence analysis of a second-order SAV-ZEC scheme for the Cahn-Hilliard-Navier-Stokes system](http://arxiv.org/abs/2507.22949v1)** | 2025-07-28 |  |
 | **[Exploring human-SAV interaction using large language models: The impact of psychological ownership and anthropomorphism on user experience](http://arxiv.org/abs/2504.16548v1)** | 2025-04-23 |  |
 | **[Consistent splitting SAV schemes for finite element approximations of incompressible flows](http://arxiv.org/abs/2503.20474v1)** | 2025-03-26 |  |
 | **[Highly efficient norm preserving numerical schemes for micromagnetic energy minimization based on SAV method](http://arxiv.org/abs/2503.10179v1)** | 2025-03-13 |  |
@@ -89,7 +90,6 @@ labels: documentation
 | **[Stability and error analysis of the SAV schemes for the inductionless MHD equations](http://arxiv.org/abs/2209.04107v2)** | 2023-03-19 | 26 pages, 13 figures |
 | **[Efficient and accurate exponential SAV algorithms with relaxation for dissipative system](http://arxiv.org/abs/2303.00222v1)** | 2023-03-01 | <details><summary>27 pa...</summary><p>27 pages, 16 figures, 5 tables</p></details> |
 | **[A sturcture-preserving, upwind-SAV scheme for the degenerate Cahn--Hilliard equation with applications to simulating surface diffusion](http://arxiv.org/abs/2210.16017v3)** | 2023-02-28 |  |
-| **[Error estimates for the scalar auxiliary variable (SAV) scheme to the Cahn-Hilliard equation](http://arxiv.org/abs/2211.13555v2)** | 2022-12-07 | 25 pages, 8 figures |
 
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |

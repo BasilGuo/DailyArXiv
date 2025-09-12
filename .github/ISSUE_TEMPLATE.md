@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 11, 2025
+title: Latest 15 Papers - September 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -58,19 +58,6 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Pruning the Tree: Rethinking RPKI Architecture From The Ground Up](http://arxiv.org/abs/2507.01465v2)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted for publication at NDSS2026</p></details> |
-| **[Learning to Identify Conflicts in RPKI](http://arxiv.org/abs/2502.03378v1)** | 2025-02-05 |  |
-| **[RPKI-Based Location-Unaware Tor Guard Relay Selection Algorithms](http://arxiv.org/abs/2501.06010v1)** | 2025-01-10 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, for data and intermediate results see: https://torstudy.cs.virginia.edu/ , to be published in Issue 2 of PoPETs 2025</p></details> |
-| **[Poster: From Fort to Foe: The Threat of RCE in RPKI](http://arxiv.org/abs/2411.16518v1)** | 2024-11-25 | <details><summary>In Pr...</summary><p>In Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS '24), October 14-18, 2024, Salt Lake City, UT, USA. ACM, New York, NY, USA, 3 pages</p></details> |
-| **[RPKI: Not Perfect But Good Enough](http://arxiv.org/abs/2409.14518v1)** | 2024-09-22 |  |
-| **[SoK: An Introspective Analysis of RPKI Security](http://arxiv.org/abs/2408.12359v1)** | 2024-08-22 | <details><summary>this ...</summary><p>this paper was accepted at USENIX Security '25</p></details> |
-| **[Byzantine-Secure Relying Party for Resilient RPKI](http://arxiv.org/abs/2405.00531v1)** | 2024-05-01 |  |
-| **[The CURE To Vulnerabilities in RPKI Validation](http://arxiv.org/abs/2312.01872v1)** | 2023-12-04 | <details><summary>Accep...</summary><p>Accepted for publication in NDSS '24</p></details> |
-| **[Keep Your Friends Close, but Your Routeservers Closer: Insights into RPKI Validation in the Internet](http://arxiv.org/abs/2303.11772v1)** | 2023-03-21 | <details><summary>Accep...</summary><p>Accepted for USENIX Security '23</p></details> |
-| **[Stalloris: RPKI Downgrade Attack](http://arxiv.org/abs/2205.06064v1)** | 2022-05-12 |  |
-| **[Rpkiller: Threat Analysis from an RPKI Relying Party Perspective](http://arxiv.org/abs/2203.00993v1)** | 2022-03-02 | 17 pages |
-| **[Privacy Preserving and Resilient RPKI](http://arxiv.org/abs/2102.02456v1)** | 2021-02-04 |  |
-| **[On the classification and false alarm of invalid prefixes in RPKI based BGP route origin validation](http://arxiv.org/abs/1903.06860v1)** | 2019-03-16 | <details><summary>Accep...</summary><p>Accepted into IFIP/IEEE International Symposium on Integrated Network Management(IM) 2019 as a short paper</p></details> |
-| **[RiPKI: The Tragic Story of RPKI Deployment in the Web Ecosystem](http://arxiv.org/abs/1408.0391v3)** | 2015-11-02 | <details><summary>Previ...</summary><p>Previous arXiv version of this paper has been published under the title "When BGP Security Meets Content Deployment: Measuring and Analysing RPKI-Protection of Websites", Proc. of Fourteenth ACM Workshop on Hot Topics in Networks (HotNets), New York:ACM, 2015</p></details> |
 
 ## SAV
 | **Title** | **Date** | **Comment** |

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 16, 2025
+title: Latest 15 Papers - September 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -8,7 +8,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Is Crunching Public Data the Right Approach to Detect BGP Hijacks?](http://arxiv.org/abs/2507.20434v1)** | 2025-07-27 |  |
-| **[A Detailed Measurement View on IPv6 Scanners and Their Adaption to BGP Signals](http://arxiv.org/abs/2506.20383v1)** | 2025-06-25 |  |
+| **[A Detailed Measurement View on IPv6 Scanners and Their Adaption to BGP Signals](http://arxiv.org/abs/2506.20383v2)** | 2025-09-16 |  |
 | **[The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages](http://arxiv.org/abs/2506.17821v1)** | 2025-06-21 |  |
 | **[BEAR: BGP Event Analysis and Reporting](http://arxiv.org/abs/2506.04514v1)** | 2025-06-04 |  |
 | **[Ain't How You Deploy: An Analysis of BGP Security Policies Performance Against Various Attack Scenarios with Differing Deployment Strategies](http://arxiv.org/abs/2408.15970v1)** | 2024-08-28 | <details><summary>8 pag...</summary><p>8 pages, 1 table, 8 figures, submitted to and accepted by IEEE ISNCC'24</p></details> |
@@ -36,11 +36,6 @@ labels: documentation
 | **[Creating a Secure Underlay for the Internet](http://arxiv.org/abs/2206.06879v2)** | 2022-06-15 | Usenix Security 2022 |
 | **[Cutting Through the Noise to Infer Autonomous System Topology](http://arxiv.org/abs/2201.07328v1)** | 2022-01-18 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 1 table. To appear at IEEE INFOCOM 2022. \copyright\ IEEE 2022</p></details> |
 | **[A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network](http://arxiv.org/abs/2112.12793v1)** | 2021-12-23 | 12 pages, 8 figures |
-| **[BlockJack: Towards Improved Prevention of IP Prefix Hijacking Attacks in Inter-Domain Routing Via Blockchain](http://arxiv.org/abs/2107.07063v1)** | 2021-07-15 |  |
-| **[APVAS: Reducing Memory Size of AS\_PATH Validation by Using Aggregate Signatures](http://arxiv.org/abs/2008.13346v1)** | 2020-08-31 |  |
-| **[Don't Forget to Lock the Front Door! Inferring the Deployment of Source Address Validation of Inbound Traffic](http://arxiv.org/abs/2002.00441v1)** | 2020-02-02 |  |
-| **[Improving PKI, BGP, and DNS Using Blockchain: A Systematic Review](http://arxiv.org/abs/2001.00747v1)** | 2020-01-03 | <details><summary>6 Pag...</summary><p>6 Pages, 2 Figures, ISC Turkey</p></details> |
-| **[The geopolitics behind the routes data travels: a case study of Iran](http://arxiv.org/abs/1911.07723v2)** | 2019-11-19 |  |
 
 ## BGP Security
 | **Title** | **Date** | **Comment** |
@@ -95,4 +90,13 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Grey Rhino Warning: IPv6 is Becoming Fertile Ground for Reflection Amplification Attacks](http://arxiv.org/abs/2506.04768v1)** | 2025-06-05 | <details><summary>This ...</summary><p>This paper has been accepted by IWQoS 2025 as a short paper</p></details> |
+| **[Martians Among Us: Observing Private or Reserved IPs on the Public Internet](http://arxiv.org/abs/2501.16805v1)** | 2025-01-28 |  |
+| **[A Multicast Scheme for Live Streaming Courses in Large-Scale, Geographically Dense Campus Networks](http://arxiv.org/abs/2411.06334v1)** | 2024-11-10 |  |
+| **[Guardians of DNS Integrity: A Remote Method for Identifying DNSSEC Validators Across the Internet](http://arxiv.org/abs/2405.19851v1)** | 2024-05-30 |  |
+| **[Your Router is My Prober: Measuring IPv6 Networks via ICMP Rate Limiting Side Channels](http://arxiv.org/abs/2210.13088v3)** | 2023-05-13 |  |
+| **[The Closed Resolver Project: Measuring the Deployment of Source Address Validation of Inbound Traffic](http://arxiv.org/abs/2006.05277v2)** | 2023-03-15 |  |
+| **[Source Address Validation](http://arxiv.org/abs/2301.09952v1)** | 2023-01-24 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2006.05277, arXiv:2002.00441</p></details> |
+| **[Subverting Stateful Firewalls with Protocol States (Extended Version)](http://arxiv.org/abs/2112.09604v5)** | 2022-08-31 | <details><summary>A sho...</summary><p>A shorter version of this paper is to be presented in NDSS 2022. UPDATE 2021-12-25: Added CVE numbers for Linux and NetBSD. UPDATE 2022-04-13: Fixed some typos, missing words, clarified the meaning of connection-less, named the experiment locations. UPDATE 2022-08-31: re-introduced using NetFilter NumGen to generate random IPv4 IDs (now that NumGen is generated securely)</p></details> |
+| **[Don't Forget to Lock the Front Door! Inferring the Deployment of Source Address Validation of Inbound Traffic](http://arxiv.org/abs/2002.00441v1)** | 2020-02-02 |  |
+| **[SafeZone: A Hierarchical Inter-Domain Authenticated Source Address Validation Solution](http://arxiv.org/abs/1103.3766v1)** | 2011-03-19 |  |
 

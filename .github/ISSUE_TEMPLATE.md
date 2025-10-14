@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 12, 2025
+title: Latest 15 Papers - October 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -75,9 +75,9 @@ labels: documentation
 ## SAV
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploring human-SAV interaction using LLMs: The impact of psychological factors on user experience](http://arxiv.org/abs/2504.16548v2)** | 2025-10-10 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Sentiment Matters: An Analysis of 200 Human-SAV Interactions](http://arxiv.org/abs/2510.08202v1)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted for presentation at IEEE ITSC 2025 and for publication in its Proceedings. \c{opyright} 2025 IEEE. Personal use permitted; other uses require permission from IEEE, including reprinting, republishing, or reuse of any copyrighted component of this work</p></details> |
 | **[Convergence analysis of a second-order SAV-ZEC scheme for the Cahn-Hilliard-Navier-Stokes system](http://arxiv.org/abs/2507.22949v1)** | 2025-07-28 |  |
-| **[Exploring human-SAV interaction using large language models: The impact of psychological ownership and anthropomorphism on user experience](http://arxiv.org/abs/2504.16548v1)** | 2025-04-23 |  |
 | **[Consistent splitting SAV schemes for finite element approximations of incompressible flows](http://arxiv.org/abs/2503.20474v1)** | 2025-03-26 |  |
 | **[Highly efficient norm preserving numerical schemes for micromagnetic energy minimization based on SAV method](http://arxiv.org/abs/2503.10179v1)** | 2025-03-13 |  |
 | **[Optimal convergence analysis of fully discrete SAVs-FEM for the Cahn-Hilliard-Navier-Stokes equations](http://arxiv.org/abs/2502.15234v1)** | 2025-02-21 |  |

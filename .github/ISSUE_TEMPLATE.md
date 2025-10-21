@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 20, 2025
+title: Latest 15 Papers - October 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -8,20 +8,6 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[A Detailed Measurement View on IPv6 Scanners and Their Adaption to BGP Signals](http://arxiv.org/abs/2506.20383v2)** | 2025-09-16 |  |
-| **[Is Crunching Public Data the Right Approach to Detect BGP Hijacks?](http://arxiv.org/abs/2507.20434v1)** | 2025-07-27 |  |
-| **[The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages](http://arxiv.org/abs/2506.17821v1)** | 2025-06-21 |  |
-| **[BEAR: BGP Event Analysis and Reporting](http://arxiv.org/abs/2506.04514v1)** | 2025-06-04 |  |
-| **[Ain't How You Deploy: An Analysis of BGP Security Policies Performance Against Various Attack Scenarios with Differing Deployment Strategies](http://arxiv.org/abs/2408.15970v1)** | 2024-08-28 | <details><summary>8 pag...</summary><p>8 pages, 1 table, 8 figures, submitted to and accepted by IEEE ISNCC'24</p></details> |
-| **[Global BGP Attacks that Evade Route Monitoring](http://arxiv.org/abs/2408.09622v1)** | 2024-08-19 | 10 pages |
-| **[MAD-MulW: A Multi-Window Anomaly Detection Framework for BGP Security Events](http://arxiv.org/abs/2312.11225v1)** | 2023-12-18 | 10 pages, 8 figures |
-| **[BGP Typo: A Longitudinal Study and Remedies](http://arxiv.org/abs/2311.00335v1)** | 2023-11-01 |  |
-| **[LIGHTYEAR: Using Modularity to Scale BGP Control Plane Verification](http://arxiv.org/abs/2204.09635v2)** | 2023-09-20 | <details><summary>12 pa...</summary><p>12 pages (+ 2 pages references), 3 figures, Accepted at SIGCOMM '23</p></details> |
-| **[Live Long and Prosper:Analyzing Long-Lived MOAS Prefixes in BGP](http://arxiv.org/abs/2307.08490v1)** | 2023-07-17 |  |
-| **[Oscilloscope: Detecting BGP Hijacks in the Data Plane](http://arxiv.org/abs/2301.12843v1)** | 2023-01-30 |  |
-| **[BGP-Multipath Routing in the Internet](http://arxiv.org/abs/2107.10938v2)** | 2022-05-29 | <details><summary>38 pa...</summary><p>38 pages, 8 figures, 8 tables</p></details> |
-| **[A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network](http://arxiv.org/abs/2112.12793v1)** | 2021-12-23 | 12 pages, 8 figures |
-| **[AS-Level BGP Community Usage Classification](http://arxiv.org/abs/2110.03816v1)** | 2021-10-07 |  |
-| **[Estimating the Impact of BGP Prefix Hijacking](http://arxiv.org/abs/2105.02346v1)** | 2021-05-05 | <details><summary>IFIP ...</summary><p>IFIP Networking conference 2021</p></details> |
 
 ## Border Gateway Protocol
 | **Title** | **Date** | **Comment** |

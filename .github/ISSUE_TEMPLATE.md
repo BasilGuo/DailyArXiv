@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 26, 2025
+title: Latest 15 Papers - October 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -20,8 +20,6 @@ labels: documentation
 | **[Oscilloscope: Detecting BGP Hijacks in the Data Plane](http://arxiv.org/abs/2301.12843v1)** | 2023-01-30 |  |
 | **[BGP-Multipath Routing in the Internet](http://arxiv.org/abs/2107.10938v2)** | 2022-05-29 | <details><summary>38 pa...</summary><p>38 pages, 8 figures, 8 tables</p></details> |
 | **[A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network](http://arxiv.org/abs/2112.12793v1)** | 2021-12-23 | 12 pages, 8 figures |
-| **[AS-Level BGP Community Usage Classification](http://arxiv.org/abs/2110.03816v1)** | 2021-10-07 |  |
-| **[Estimating the Impact of BGP Prefix Hijacking](http://arxiv.org/abs/2105.02346v1)** | 2021-05-05 | <details><summary>IFIP ...</summary><p>IFIP Networking conference 2021</p></details> |
 
 ## Border Gateway Protocol
 | **Title** | **Date** | **Comment** |
@@ -38,9 +36,6 @@ labels: documentation
 | **[A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network](http://arxiv.org/abs/2112.12793v1)** | 2021-12-23 | 12 pages, 8 figures |
 | **[BlockJack: Towards Improved Prevention of IP Prefix Hijacking Attacks in Inter-Domain Routing Via Blockchain](http://arxiv.org/abs/2107.07063v1)** | 2021-07-15 |  |
 | **[APVAS: Reducing Memory Size of AS\_PATH Validation by Using Aggregate Signatures](http://arxiv.org/abs/2008.13346v1)** | 2020-08-31 |  |
-| **[Don't Forget to Lock the Front Door! Inferring the Deployment of Source Address Validation of Inbound Traffic](http://arxiv.org/abs/2002.00441v1)** | 2020-02-02 |  |
-| **[Improving PKI, BGP, and DNS Using Blockchain: A Systematic Review](http://arxiv.org/abs/2001.00747v1)** | 2020-01-03 | <details><summary>6 Pag...</summary><p>6 Pages, 2 Figures, ISC Turkey</p></details> |
-| **[The geopolitics behind the routes data travels: a case study of Iran](http://arxiv.org/abs/1911.07723v2)** | 2019-11-19 |  |
 
 ## BGP Security
 | **Title** | **Date** | **Comment** |

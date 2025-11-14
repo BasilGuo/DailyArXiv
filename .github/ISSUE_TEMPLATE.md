@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -102,7 +102,7 @@ labels: documentation
 | **[Independent Deeply Learned Matrix Analysis for Multichannel Audio Source Separation](https://arxiv.org/pdf/1806.10307v1)** | 2018-06-28 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, To appear in the Proceedings of the 26th European Signal Processing Conference (EUSIPCO 2018)</p></details> |
 | **[Unsupervised Domain Adaptation in the Absence of Source Data](https://arxiv.org/pdf/2007.10233v1)** | 2020-07-21 |  |
 | **[Doubly-Robust LLM-as-a-Judge: Externally Valid Estimation with Imperfect Personas](https://arxiv.org/pdf/2509.22957v1)** | 2025-09-30 |  |
-| **[Configuration Validation with Large Language Models](https://arxiv.org/pdf/2310.09690v2)** | 2024-04-03 |  |
 | **[How to evaluate sentiment classifiers for Twitter time-ordered data?](https://arxiv.org/pdf/1803.05160v1)** | 2021-08-31 |  |
+| **[Configuration Validation with Large Language Models](https://arxiv.org/pdf/2310.09690v2)** | 2024-04-03 |  |
 | **[ProGS: Property Graph Shapes Language (Extended Version)](https://arxiv.org/pdf/2107.05566v1)** | 2023-07-14 |  |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 16, 2025
+title: Latest 15 Papers - November 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -90,19 +90,19 @@ labels: documentation
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PRBench: Large-Scale Expert Rubrics for Evaluating High-Stakes Professional Reasoning](https://arxiv.org/abs/2511.11562v1)** | 2025-11-14 |  |
+| **[Text2SQL-Flow: A Robust SQL-Aware Data Augmentation Framework for Text-to-SQL](https://arxiv.org/abs/2511.10192v2)** | 2025-11-14 |  |
+| **[Unsupervised Robust Domain Adaptation: Paradigm, Theory and Algorithm](https://arxiv.org/abs/2511.11009v1)** | 2025-11-14 | To appear in IJCV |
+| **[Mining--Gym: A Configurable RL Benchmarking Environment for Truck Dispatch Scheduling](https://arxiv.org/abs/2503.19195v2)** | 2025-11-14 |  |
+| **[Heterogeneous Multisource Transfer Learning via Model Averaging for Positive-Unlabeled Data](https://arxiv.org/abs/2511.10919v1)** | 2025-11-14 |  |
+| **[YOLO-Drone: An Efficient Object Detection Approach Using the GhostHead Network for Drone Images](https://arxiv.org/abs/2511.10905v1)** | 2025-11-14 | <details><summary>Prepr...</summary><p>Preprint version. Accepted for publication in the Journal of Information Systems Engineering and Management</p></details> |
+| **[Automated Vulnerability Validation and Verification: A Large Language Model Approach](https://arxiv.org/abs/2509.24037v2)** | 2025-11-13 |  |
 | **[CityVerse: A Unified Data Platform for Multi-Task Urban Computing with Large Language Models](https://arxiv.org/abs/2511.10418v1)** | 2025-11-13 |  |
 | **[Dual-Mode Deep Anomaly Detection for Medical Manufacturing: Structural Similarity and Feature Distance](https://arxiv.org/abs/2509.05796v3)** | 2025-11-13 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 3 tables</p></details> |
-| **[Text2SQL-Flow: A Robust SQL-Aware Data Augmentation Framework for Text-to-SQL](https://arxiv.org/abs/2511.10192v1)** | 2025-11-13 |  |
 | **[MAUGIF: Mechanism-Aware Unsupervised General Image Fusion via Dual Cross-Image Autoencoders](https://arxiv.org/abs/2511.08272v3)** | 2025-11-13 |  |
 | **[Mixture-of-Channels: Exploiting Sparse FFNs for Efficient LLMs Pre-Training and Inference](https://arxiv.org/abs/2511.09323v1)** | 2025-11-12 |  |
 | **[Unveiling the Impact of Data and Model Scaling on High-Level Control for Humanoid Robots](https://arxiv.org/abs/2511.09241v1)** | 2025-11-12 |  |
 | **[Zoo of Centralities: Encyclopedia of Node Metrics in Complex Networks](https://arxiv.org/abs/2511.05122v2)** | 2025-11-11 |  |
 | **[DynaSolidGeo: A Dynamic Benchmark for Genuine Spatial Mathematical Reasoning of VLMs in Solid Geometry](https://arxiv.org/abs/2510.22340v2)** | 2025-11-11 | <details><summary>The c...</summary><p>The code and dataset are available at \href{https://zgca-ai4edu.github.io/DynaSolidGeo/}{DynaSolidGeo}</p></details> |
 | **[TraceCoder: Towards Traceable ICD Coding via Multi-Source Knowledge Integration](https://arxiv.org/abs/2510.15267v2)** | 2025-11-11 | <details><summary>Accpe...</summary><p>Accpeted as BIBM 2025 Regular. 6 pages. Camera-Ready version</p></details> |
-| **[Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering](https://arxiv.org/abs/2409.04181v3)** | 2025-11-11 |  |
-| **[Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs](https://arxiv.org/abs/2510.13795v3)** | 2025-11-11 | <details><summary>homep...</summary><p>homepage: https://open-bee.github.io/</p></details> |
-| **[MA-GTS: A Multi-Agent Framework for Solving Complex Graph Problems in Real-World Applications](https://arxiv.org/abs/2502.18540v2)** | 2025-11-11 |  |
-| **[STAR-1: Safer Alignment of Reasoning LLMs with 1K Data](https://arxiv.org/abs/2504.01903v2)** | 2025-11-11 |  |
-| **[ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents](https://arxiv.org/abs/2511.07685v1)** | 2025-11-10 | <details><summary>27 pa...</summary><p>27 pages, 21 figures, pre-print</p></details> |
-| **[TrackStudio: An Integrated Toolkit for Markerless Tracking](https://arxiv.org/abs/2511.07624v1)** | 2025-11-10 | <details><summary>26 pa...</summary><p>26 pages, 5 main text figures, 5 supplementary figures</p></details> |
 

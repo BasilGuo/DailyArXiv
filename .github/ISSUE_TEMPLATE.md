@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 17, 2025
+title: Latest 15 Papers - November 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -90,6 +90,10 @@ labels: documentation
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spark-Prover-X1: Formal Theorem Proving Through Diverse Data Training](https://arxiv.org/abs/2511.13043v1)** | 2025-11-17 |  |
+| **[Small Models, Big Support: A Local LLM Framework for Educator-Centric Content Creation and Assessment with RAG and CAG](https://arxiv.org/abs/2506.05925v2)** | 2025-11-16 |  |
+| **[Quantum Optimization Algorithms](https://arxiv.org/abs/2511.12379v1)** | 2025-11-15 | <details><summary>Prepr...</summary><p>Preprint submitted to appear in a Springer Nature Book on Combinatorial Optimization using Quantum Computing</p></details> |
+| **[DataOps-driven CI/CD for analytics repositories](https://arxiv.org/abs/2511.12277v1)** | 2025-11-15 |  |
 | **[PRBench: Large-Scale Expert Rubrics for Evaluating High-Stakes Professional Reasoning](https://arxiv.org/abs/2511.11562v1)** | 2025-11-14 |  |
 | **[Text2SQL-Flow: A Robust SQL-Aware Data Augmentation Framework for Text-to-SQL](https://arxiv.org/abs/2511.10192v2)** | 2025-11-14 |  |
 | **[Unsupervised Robust Domain Adaptation: Paradigm, Theory and Algorithm](https://arxiv.org/abs/2511.11009v1)** | 2025-11-14 | To appear in IJCV |
@@ -101,8 +105,4 @@ labels: documentation
 | **[Dual-Mode Deep Anomaly Detection for Medical Manufacturing: Structural Similarity and Feature Distance](https://arxiv.org/abs/2509.05796v3)** | 2025-11-13 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 3 tables</p></details> |
 | **[MAUGIF: Mechanism-Aware Unsupervised General Image Fusion via Dual Cross-Image Autoencoders](https://arxiv.org/abs/2511.08272v3)** | 2025-11-13 |  |
 | **[Mixture-of-Channels: Exploiting Sparse FFNs for Efficient LLMs Pre-Training and Inference](https://arxiv.org/abs/2511.09323v1)** | 2025-11-12 |  |
-| **[Unveiling the Impact of Data and Model Scaling on High-Level Control for Humanoid Robots](https://arxiv.org/abs/2511.09241v1)** | 2025-11-12 |  |
-| **[Zoo of Centralities: Encyclopedia of Node Metrics in Complex Networks](https://arxiv.org/abs/2511.05122v2)** | 2025-11-11 |  |
-| **[DynaSolidGeo: A Dynamic Benchmark for Genuine Spatial Mathematical Reasoning of VLMs in Solid Geometry](https://arxiv.org/abs/2510.22340v2)** | 2025-11-11 | <details><summary>The c...</summary><p>The code and dataset are available at \href{https://zgca-ai4edu.github.io/DynaSolidGeo/}{DynaSolidGeo}</p></details> |
-| **[TraceCoder: Towards Traceable ICD Coding via Multi-Source Knowledge Integration](https://arxiv.org/abs/2510.15267v2)** | 2025-11-11 | <details><summary>Accpe...</summary><p>Accpeted as BIBM 2025 Regular. 6 pages. Camera-Ready version</p></details> |
 

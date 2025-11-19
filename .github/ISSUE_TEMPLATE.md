@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 18, 2025
+title: Latest 15 Papers - November 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## BGP
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v1)** | 2025-11-18 | 18 pages, 10 figures |
 | **[A Detailed Measurement View on IPv6 Scanners and Their Adaption to BGP Signals](https://arxiv.org/abs/2506.20383v2)** | 2025-09-16 |  |
 | **[Is Crunching Public Data the Right Approach to Detect BGP Hijacks?](https://arxiv.org/abs/2507.20434v1)** | 2025-07-27 |  |
 | **[The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages](https://arxiv.org/abs/2506.17821v1)** | 2025-06-21 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[BGP-Multipath Routing in the Internet](https://arxiv.org/abs/2107.10938v2)** | 2022-05-29 | <details><summary>38 pa...</summary><p>38 pages, 8 figures, 8 tables</p></details> |
 | **[A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network](https://arxiv.org/abs/2112.12793v1)** | 2021-12-23 | 12 pages, 8 figures |
 | **[AS-Level BGP Community Usage Classification](https://arxiv.org/abs/2110.03816v1)** | 2021-10-07 |  |
-| **[Estimating the Impact of BGP Prefix Hijacking](https://arxiv.org/abs/2105.02346v1)** | 2021-05-05 | <details><summary>IFIP ...</summary><p>IFIP Networking conference 2021</p></details> |
 
 ## Border Gateway Protocol
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v1)** | 2025-11-18 | 18 pages, 10 figures |
 | **[Seagull: Privacy preserving network verification system](https://arxiv.org/abs/2402.08956v2)** | 2025-11-08 |  |
 | **[Nonlinear Instabilities in Computer Network Dynamics](https://arxiv.org/abs/2511.01886v1)** | 2025-10-24 | <details><summary>PhD T...</summary><p>PhD Thesis, 2003. Advisory Committee: Professor Eyad H. Abed , Chairman Assistant Professor Richard J. La (Co-advisor) Professor P. S. Krishnaprasad Professor Armond M. Makowski Professor Mark I. Freidlin</p></details> |
 | **[Is Crunching Public Data the Right Approach to Detect BGP Hijacks?](https://arxiv.org/abs/2507.20434v1)** | 2025-07-27 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Cutting Through the Noise to Infer Autonomous System Topology](https://arxiv.org/abs/2201.07328v1)** | 2022-01-18 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 1 table. To appear at IEEE INFOCOM 2022. © IEEE 2022</p></details> |
 | **[A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network](https://arxiv.org/abs/2112.12793v1)** | 2021-12-23 | 12 pages, 8 figures |
 | **[BlockJack: Towards Improved Prevention of IP Prefix Hijacking Attacks in Inter-Domain Routing Via Blockchain](https://arxiv.org/abs/2107.07063v1)** | 2021-07-15 |  |
-| **[A Fast-Convergence Routing of the Hot-Potato](https://arxiv.org/abs/2101.09002v1)** | 2021-01-22 | <details><summary>IEEE ...</summary><p>IEEE INFOCOM 2021, May 2021, Online, France</p></details> |
 
 ## BGP Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v1)** | 2025-11-18 | 18 pages, 10 figures |
 | **[Seagull: Privacy preserving network verification system](https://arxiv.org/abs/2402.08956v2)** | 2025-11-08 |  |
 | **[LAPRAD: LLM-Assisted PRotocol Attack Discovery](https://arxiv.org/abs/2510.19264v1)** | 2025-10-22 | <details><summary>IFIP ...</summary><p>IFIP Networking 2025 Proceedings (Accepted on 05.05.2025)</p></details> |
 | **[Is Crunching Public Data the Right Approach to Detect BGP Hijacks?](https://arxiv.org/abs/2507.20434v1)** | 2025-07-27 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Global BGP Attacks that Evade Route Monitoring](https://arxiv.org/abs/2408.09622v1)** | 2024-08-19 | 10 pages |
 | **[Is it a Real CD Mismatch in Interdomain Routing?](https://arxiv.org/abs/2401.11520v1)** | 2024-01-21 |  |
 | **[MAD-MulW: A Multi-Window Anomaly Detection Framework for BGP Security Events](https://arxiv.org/abs/2312.11225v1)** | 2023-12-18 | 10 pages, 8 figures |
-| **[The CURE To Vulnerabilities in RPKI Validation](https://arxiv.org/abs/2312.01872v1)** | 2023-12-04 | <details><summary>Accep...</summary><p>Accepted for publication in NDSS '24</p></details> |
 
 ## RPKI
 | **Title** | **Date** | **Comment** |
@@ -90,7 +90,13 @@ labels: documentation
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Spark-Prover-X1: Formal Theorem Proving Through Diverse Data Training](https://arxiv.org/abs/2511.13043v1)** | 2025-11-17 |  |
+| **[Benchmarking OpenWiFiSync on ESP32: Towards Cost-Effective Wireless Time Synchronization](https://arxiv.org/abs/2511.14457v1)** | 2025-11-18 |  |
+| **[Spark-Prover-X1: Formal Theorem Proving Through Diverse Data Training](https://arxiv.org/abs/2511.13043v2)** | 2025-11-18 |  |
+| **[Bridging the Gap Between Bayesian Deep Learning and Ensemble Weather Forecasts](https://arxiv.org/abs/2511.14218v1)** | 2025-11-18 |  |
+| **[Towards a Unified Theory for Semiparametric Data Fusion with Individual-Level Data](https://arxiv.org/abs/2409.09973v3)** | 2025-11-17 | <details><summary>140 p...</summary><p>140 pages. Updated to add a discussion of the relationship between Example 1 and the shadow variables missing data analysis</p></details> |
+| **[Benchmarking Differentially Private Tabular Data Synthesis](https://arxiv.org/abs/2504.14061v2)** | 2025-11-17 | <details><summary>GitHu...</summary><p>GitHub repository link: https://github.com/KaiChen9909/tab_bench</p></details> |
+| **[RATTENTION: Towards the Minimal Sliding Window Size in Local-Global Attention Models](https://arxiv.org/abs/2506.15545v2)** | 2025-11-17 | 9 pages |
+| **[Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification](https://arxiv.org/abs/2511.13575v1)** | 2025-11-17 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, accepted by AAAI 2026</p></details> |
 | **[Small Models, Big Support: A Local LLM Framework for Educator-Centric Content Creation and Assessment with RAG and CAG](https://arxiv.org/abs/2506.05925v2)** | 2025-11-16 |  |
 | **[Quantum Optimization Algorithms](https://arxiv.org/abs/2511.12379v1)** | 2025-11-15 | <details><summary>Prepr...</summary><p>Preprint submitted to appear in a Springer Nature Book on Combinatorial Optimization using Quantum Computing</p></details> |
 | **[DataOps-driven CI/CD for analytics repositories](https://arxiv.org/abs/2511.12277v1)** | 2025-11-15 |  |
@@ -99,10 +105,4 @@ labels: documentation
 | **[Unsupervised Robust Domain Adaptation: Paradigm, Theory and Algorithm](https://arxiv.org/abs/2511.11009v1)** | 2025-11-14 | To appear in IJCV |
 | **[Mining--Gym: A Configurable RL Benchmarking Environment for Truck Dispatch Scheduling](https://arxiv.org/abs/2503.19195v2)** | 2025-11-14 |  |
 | **[Heterogeneous Multisource Transfer Learning via Model Averaging for Positive-Unlabeled Data](https://arxiv.org/abs/2511.10919v1)** | 2025-11-14 |  |
-| **[YOLO-Drone: An Efficient Object Detection Approach Using the GhostHead Network for Drone Images](https://arxiv.org/abs/2511.10905v1)** | 2025-11-14 | <details><summary>Prepr...</summary><p>Preprint version. Accepted for publication in the Journal of Information Systems Engineering and Management</p></details> |
-| **[Automated Vulnerability Validation and Verification: A Large Language Model Approach](https://arxiv.org/abs/2509.24037v2)** | 2025-11-13 |  |
-| **[CityVerse: A Unified Data Platform for Multi-Task Urban Computing with Large Language Models](https://arxiv.org/abs/2511.10418v1)** | 2025-11-13 |  |
-| **[Dual-Mode Deep Anomaly Detection for Medical Manufacturing: Structural Similarity and Feature Distance](https://arxiv.org/abs/2509.05796v3)** | 2025-11-13 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 3 tables</p></details> |
-| **[MAUGIF: Mechanism-Aware Unsupervised General Image Fusion via Dual Cross-Image Autoencoders](https://arxiv.org/abs/2511.08272v3)** | 2025-11-13 |  |
-| **[Mixture-of-Channels: Exploiting Sparse FFNs for Efficient LLMs Pre-Training and Inference](https://arxiv.org/abs/2511.09323v1)** | 2025-11-12 |  |
 

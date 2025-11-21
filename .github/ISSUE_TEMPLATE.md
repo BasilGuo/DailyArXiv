@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 19, 2025
+title: Latest 15 Papers - November 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -90,6 +90,12 @@ labels: documentation
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SemanticCite: Citation Verification with AI-Powered Full-Text Analysis and Evidence-Based Reasoning](https://arxiv.org/abs/2511.16198v1)** | 2025-11-20 | 21 pages, 4 figures |
+| **[Zoo of Centralities: Encyclopedia of Node Metrics in Complex Networks](https://arxiv.org/abs/2511.05122v3)** | 2025-11-20 |  |
+| **[TrackStudio: An Integrated Toolkit for Markerless Tracking](https://arxiv.org/abs/2511.07624v2)** | 2025-11-19 | <details><summary>26 pa...</summary><p>26 pages, 5 main text figures, 5 supplementary figures</p></details> |
+| **[Multiple Sides of 36 Coins: Measuring Peer-to-Peer Infrastructure Across Cryptocurrencies](https://arxiv.org/abs/2511.15388v1)** | 2025-11-19 | <details><summary>In Pr...</summary><p>In Proceedings of ACM SIGMETRICS 2026</p></details> |
+| **[Learning Where, What and How to Transfer: A Multi-Role Reinforcement Learning Approach for Evolutionary Multitasking](https://arxiv.org/abs/2511.15199v1)** | 2025-11-19 |  |
+| **[Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced Genomic Question Answering](https://arxiv.org/abs/2511.15061v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This paper has been accepted to SIGIR-AP 2025</p></details> |
 | **[Benchmarking OpenWiFiSync on ESP32: Towards Cost-Effective Wireless Time Synchronization](https://arxiv.org/abs/2511.14457v1)** | 2025-11-18 |  |
 | **[Spark-Prover-X1: Formal Theorem Proving Through Diverse Data Training](https://arxiv.org/abs/2511.13043v2)** | 2025-11-18 |  |
 | **[Bridging the Gap Between Bayesian Deep Learning and Ensemble Weather Forecasts](https://arxiv.org/abs/2511.14218v1)** | 2025-11-18 |  |
@@ -99,10 +105,4 @@ labels: documentation
 | **[Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification](https://arxiv.org/abs/2511.13575v1)** | 2025-11-17 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, accepted by AAAI 2026</p></details> |
 | **[Small Models, Big Support: A Local LLM Framework for Educator-Centric Content Creation and Assessment with RAG and CAG](https://arxiv.org/abs/2506.05925v2)** | 2025-11-16 |  |
 | **[Quantum Optimization Algorithms](https://arxiv.org/abs/2511.12379v1)** | 2025-11-15 | <details><summary>Prepr...</summary><p>Preprint submitted to appear in a Springer Nature Book on Combinatorial Optimization using Quantum Computing</p></details> |
-| **[DataOps-driven CI/CD for analytics repositories](https://arxiv.org/abs/2511.12277v1)** | 2025-11-15 |  |
-| **[PRBench: Large-Scale Expert Rubrics for Evaluating High-Stakes Professional Reasoning](https://arxiv.org/abs/2511.11562v1)** | 2025-11-14 |  |
-| **[Text2SQL-Flow: A Robust SQL-Aware Data Augmentation Framework for Text-to-SQL](https://arxiv.org/abs/2511.10192v2)** | 2025-11-14 |  |
-| **[Unsupervised Robust Domain Adaptation: Paradigm, Theory and Algorithm](https://arxiv.org/abs/2511.11009v1)** | 2025-11-14 | To appear in IJCV |
-| **[Mining--Gym: A Configurable RL Benchmarking Environment for Truck Dispatch Scheduling](https://arxiv.org/abs/2503.19195v2)** | 2025-11-14 |  |
-| **[Heterogeneous Multisource Transfer Learning via Model Averaging for Positive-Unlabeled Data](https://arxiv.org/abs/2511.10919v1)** | 2025-11-14 |  |
 

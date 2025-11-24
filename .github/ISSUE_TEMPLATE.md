@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 23, 2025
+title: Latest 15 Papers - November 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -90,6 +90,8 @@ labels: documentation
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ToC: Tree-of-Claims Search with Multi-Agent Language Models](https://arxiv.org/abs/2511.16972v1)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral)</p></details> |
+| **[ReviewGuard: Enhancing Deficient Peer Review Detection via LLM-Driven Data Augmentation](https://arxiv.org/abs/2510.16549v2)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted as a full paper at the 2025 ACM/IEEE Joint Conference on Digital Libraries (JCDL 2025)</p></details> |
 | **[SemanticCite: Citation Verification with AI-Powered Full-Text Analysis and Evidence-Based Reasoning](https://arxiv.org/abs/2511.16198v1)** | 2025-11-20 | 21 pages, 4 figures |
 | **[Zoo of Centralities: Encyclopedia of Node Metrics in Complex Networks](https://arxiv.org/abs/2511.05122v3)** | 2025-11-20 |  |
 | **[TrackStudio: An Integrated Toolkit for Markerless Tracking](https://arxiv.org/abs/2511.07624v2)** | 2025-11-19 | <details><summary>26 pa...</summary><p>26 pages, 5 main text figures, 5 supplementary figures</p></details> |
@@ -103,6 +105,4 @@ labels: documentation
 | **[Benchmarking Differentially Private Tabular Data Synthesis](https://arxiv.org/abs/2504.14061v2)** | 2025-11-17 | <details><summary>GitHu...</summary><p>GitHub repository link: https://github.com/KaiChen9909/tab_bench</p></details> |
 | **[RATTENTION: Towards the Minimal Sliding Window Size in Local-Global Attention Models](https://arxiv.org/abs/2506.15545v2)** | 2025-11-17 | 9 pages |
 | **[Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification](https://arxiv.org/abs/2511.13575v1)** | 2025-11-17 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, accepted by AAAI 2026</p></details> |
-| **[Small Models, Big Support: A Local LLM Framework for Educator-Centric Content Creation and Assessment with RAG and CAG](https://arxiv.org/abs/2506.05925v2)** | 2025-11-16 |  |
-| **[Quantum Optimization Algorithms](https://arxiv.org/abs/2511.12379v1)** | 2025-11-15 | <details><summary>Prepr...</summary><p>Preprint submitted to appear in a Springer Nature Book on Combinatorial Optimization using Quantum Computing</p></details> |
 

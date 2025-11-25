@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 24, 2025
+title: Latest 15 Papers - November 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -90,19 +90,19 @@ labels: documentation
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BideDPO: Conditional Image Generation with Simultaneous Text and Condition Alignment](https://arxiv.org/abs/2511.19268v1)** | 2025-11-24 | 29 pages |
+| **[SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech](https://arxiv.org/abs/2511.07821v2)** | 2025-11-24 |  |
+| **[Can Large Language Models Detect Misinformation in Scientific News Reporting?](https://arxiv.org/abs/2402.14268v2)** | 2025-11-24 |  |
+| **[A pipeline for matching bibliographic references with incomplete metadata: experiments with Crossref and OpenCitations](https://arxiv.org/abs/2511.18408v1)** | 2025-11-23 |  |
+| **[MASS: Motion-Aware Spatial-Temporal Grounding for Physics Reasoning and Comprehension in Vision-Language Models](https://arxiv.org/abs/2511.18373v1)** | 2025-11-23 |  |
+| **[Establishing Traceability Links between Release Notes & Software Artifacts: Practitioners' Perspectives](https://arxiv.org/abs/2511.18187v1)** | 2025-11-22 |  |
+| **[Anti-Jamming based on Null-Steering Antennas and Intelligent UAV Swarm Behavior](https://arxiv.org/abs/2511.18086v1)** | 2025-11-22 | 10 pages |
+| **[Signal: Selective Interaction and Global-local Alignment for Multi-Modal Object Re-Identification](https://arxiv.org/abs/2511.17965v1)** | 2025-11-22 | <details><summary>Accep...</summary><p>Accepted by AAAI2026. More modifications may be performed</p></details> |
+| **[GP-GPT: Large Language Model for Gene-Phenotype Mapping](https://arxiv.org/abs/2409.09825v4)** | 2025-11-21 |  |
 | **[ToC: Tree-of-Claims Search with Multi-Agent Language Models](https://arxiv.org/abs/2511.16972v1)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral)</p></details> |
+| **[Bridging Symbolic Control and Neural Reasoning in LLM Agents: The Structured Cognitive Loop](https://arxiv.org/abs/2511.17673v1)** | 2025-11-21 | 27 pages |
 | **[ReviewGuard: Enhancing Deficient Peer Review Detection via LLM-Driven Data Augmentation](https://arxiv.org/abs/2510.16549v2)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted as a full paper at the 2025 ACM/IEEE Joint Conference on Digital Libraries (JCDL 2025)</p></details> |
 | **[SemanticCite: Citation Verification with AI-Powered Full-Text Analysis and Evidence-Based Reasoning](https://arxiv.org/abs/2511.16198v1)** | 2025-11-20 | 21 pages, 4 figures |
 | **[Zoo of Centralities: Encyclopedia of Node Metrics in Complex Networks](https://arxiv.org/abs/2511.05122v3)** | 2025-11-20 |  |
 | **[TrackStudio: An Integrated Toolkit for Markerless Tracking](https://arxiv.org/abs/2511.07624v2)** | 2025-11-19 | <details><summary>26 pa...</summary><p>26 pages, 5 main text figures, 5 supplementary figures</p></details> |
-| **[Multiple Sides of 36 Coins: Measuring Peer-to-Peer Infrastructure Across Cryptocurrencies](https://arxiv.org/abs/2511.15388v1)** | 2025-11-19 | <details><summary>In Pr...</summary><p>In Proceedings of ACM SIGMETRICS 2026</p></details> |
-| **[Learning Where, What and How to Transfer: A Multi-Role Reinforcement Learning Approach for Evolutionary Multitasking](https://arxiv.org/abs/2511.15199v1)** | 2025-11-19 |  |
-| **[Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced Genomic Question Answering](https://arxiv.org/abs/2511.15061v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This paper has been accepted to SIGIR-AP 2025</p></details> |
-| **[Benchmarking OpenWiFiSync on ESP32: Towards Cost-Effective Wireless Time Synchronization](https://arxiv.org/abs/2511.14457v1)** | 2025-11-18 |  |
-| **[Spark-Prover-X1: Formal Theorem Proving Through Diverse Data Training](https://arxiv.org/abs/2511.13043v2)** | 2025-11-18 |  |
-| **[Bridging the Gap Between Bayesian Deep Learning and Ensemble Weather Forecasts](https://arxiv.org/abs/2511.14218v1)** | 2025-11-18 |  |
-| **[Towards a Unified Theory for Semiparametric Data Fusion with Individual-Level Data](https://arxiv.org/abs/2409.09973v3)** | 2025-11-17 | <details><summary>140 p...</summary><p>140 pages. Updated to add a discussion of the relationship between Example 1 and the shadow variables missing data analysis</p></details> |
-| **[Benchmarking Differentially Private Tabular Data Synthesis](https://arxiv.org/abs/2504.14061v2)** | 2025-11-17 | <details><summary>GitHu...</summary><p>GitHub repository link: https://github.com/KaiChen9909/tab_bench</p></details> |
-| **[RATTENTION: Towards the Minimal Sliding Window Size in Local-Global Attention Models](https://arxiv.org/abs/2506.15545v2)** | 2025-11-17 | 9 pages |
-| **[Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification](https://arxiv.org/abs/2511.13575v1)** | 2025-11-17 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, accepted by AAAI 2026</p></details> |
 

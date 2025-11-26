@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 25, 2025
+title: Latest 15 Papers - November 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -90,19 +90,19 @@ labels: documentation
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DiFR: Inference Verification Despite Nondeterminism](https://arxiv.org/abs/2511.20621v1)** | 2025-11-25 |  |
+| **[MTBBench: A Multimodal Sequential Clinical Decision-Making Benchmark in Oncology](https://arxiv.org/abs/2511.20490v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[A Reality Check on SBOM-based Vulnerability Management: An Empirical Study and A Path Forward](https://arxiv.org/abs/2511.20313v1)** | 2025-11-25 |  |
+| **[Transfer Learning for High-dimensional Quantile Regression with Distribution Shift](https://arxiv.org/abs/2411.19933v2)** | 2025-11-25 | 61 pages |
+| **[VeriSciQA: An Auto-Verified Dataset for Scientific Visual Question Answering](https://arxiv.org/abs/2511.19899v1)** | 2025-11-25 |  |
+| **[Realizing Quantum Wireless Sensing Without Extra Reference Sources: Architecture, Algorithm, and Sensitivity Maximization](https://arxiv.org/abs/2504.21234v2)** | 2025-11-25 | <details><summary>A sel...</summary><p>A self-heterodyne sensing approach, which equivalents to an atomic autocorrelator, is proposed to enable high-resolution quantum wireless sensing</p></details> |
+| **[Bridging Symbolic Control and Neural Reasoning in LLM Agents: The Structured Cognitive Loop](https://arxiv.org/abs/2511.17673v2)** | 2025-11-25 | <details><summary>Polis...</summary><p>Polished the abstract and replaced the demonstration screenshots</p></details> |
 | **[BideDPO: Conditional Image Generation with Simultaneous Text and Condition Alignment](https://arxiv.org/abs/2511.19268v1)** | 2025-11-24 | 29 pages |
 | **[SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech](https://arxiv.org/abs/2511.07821v2)** | 2025-11-24 |  |
 | **[Can Large Language Models Detect Misinformation in Scientific News Reporting?](https://arxiv.org/abs/2402.14268v2)** | 2025-11-24 |  |
+| **[RFX: High-Performance Random Forests with GPU Acceleration and QLORA Compression](https://arxiv.org/abs/2511.19493v1)** | 2025-11-23 | <details><summary>39 pa...</summary><p>39 pages, 9 tables, 4 figures</p></details> |
 | **[A pipeline for matching bibliographic references with incomplete metadata: experiments with Crossref and OpenCitations](https://arxiv.org/abs/2511.18408v1)** | 2025-11-23 |  |
 | **[MASS: Motion-Aware Spatial-Temporal Grounding for Physics Reasoning and Comprehension in Vision-Language Models](https://arxiv.org/abs/2511.18373v1)** | 2025-11-23 |  |
 | **[Establishing Traceability Links between Release Notes & Software Artifacts: Practitioners' Perspectives](https://arxiv.org/abs/2511.18187v1)** | 2025-11-22 |  |
 | **[Anti-Jamming based on Null-Steering Antennas and Intelligent UAV Swarm Behavior](https://arxiv.org/abs/2511.18086v1)** | 2025-11-22 | 10 pages |
-| **[Signal: Selective Interaction and Global-local Alignment for Multi-Modal Object Re-Identification](https://arxiv.org/abs/2511.17965v1)** | 2025-11-22 | <details><summary>Accep...</summary><p>Accepted by AAAI2026. More modifications may be performed</p></details> |
-| **[GP-GPT: Large Language Model for Gene-Phenotype Mapping](https://arxiv.org/abs/2409.09825v4)** | 2025-11-21 |  |
-| **[ToC: Tree-of-Claims Search with Multi-Agent Language Models](https://arxiv.org/abs/2511.16972v1)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral)</p></details> |
-| **[Bridging Symbolic Control and Neural Reasoning in LLM Agents: The Structured Cognitive Loop](https://arxiv.org/abs/2511.17673v1)** | 2025-11-21 | 27 pages |
-| **[ReviewGuard: Enhancing Deficient Peer Review Detection via LLM-Driven Data Augmentation](https://arxiv.org/abs/2510.16549v2)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted as a full paper at the 2025 ACM/IEEE Joint Conference on Digital Libraries (JCDL 2025)</p></details> |
-| **[SemanticCite: Citation Verification with AI-Powered Full-Text Analysis and Evidence-Based Reasoning](https://arxiv.org/abs/2511.16198v1)** | 2025-11-20 | 21 pages, 4 figures |
-| **[Zoo of Centralities: Encyclopedia of Node Metrics in Complex Networks](https://arxiv.org/abs/2511.05122v3)** | 2025-11-20 |  |
-| **[TrackStudio: An Integrated Toolkit for Markerless Tracking](https://arxiv.org/abs/2511.07624v2)** | 2025-11-19 | <details><summary>26 pa...</summary><p>26 pages, 5 main text figures, 5 supplementary figures</p></details> |
 

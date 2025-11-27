@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 26, 2025
+title: Latest 15 Papers - November 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -90,6 +90,8 @@ labels: documentation
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EvRainDrop: HyperGraph-guided Completion for Effective Frame and Event Stream Aggregation](https://arxiv.org/abs/2511.21439v1)** | 2025-11-26 |  |
+| **[Optimal Integrative Estimation for Distributed Precision Matrices with Heterogeneity Adjustment](https://arxiv.org/abs/2408.06263v2)** | 2025-11-26 |  |
 | **[DiFR: Inference Verification Despite Nondeterminism](https://arxiv.org/abs/2511.20621v1)** | 2025-11-25 |  |
 | **[MTBBench: A Multimodal Sequential Clinical Decision-Making Benchmark in Oncology](https://arxiv.org/abs/2511.20490v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[A Reality Check on SBOM-based Vulnerability Management: An Empirical Study and A Path Forward](https://arxiv.org/abs/2511.20313v1)** | 2025-11-25 |  |
@@ -103,6 +105,4 @@ labels: documentation
 | **[RFX: High-Performance Random Forests with GPU Acceleration and QLORA Compression](https://arxiv.org/abs/2511.19493v1)** | 2025-11-23 | <details><summary>39 pa...</summary><p>39 pages, 9 tables, 4 figures</p></details> |
 | **[A pipeline for matching bibliographic references with incomplete metadata: experiments with Crossref and OpenCitations](https://arxiv.org/abs/2511.18408v1)** | 2025-11-23 |  |
 | **[MASS: Motion-Aware Spatial-Temporal Grounding for Physics Reasoning and Comprehension in Vision-Language Models](https://arxiv.org/abs/2511.18373v1)** | 2025-11-23 |  |
-| **[Establishing Traceability Links between Release Notes & Software Artifacts: Practitioners' Perspectives](https://arxiv.org/abs/2511.18187v1)** | 2025-11-22 |  |
-| **[Anti-Jamming based on Null-Steering Antennas and Intelligent UAV Swarm Behavior](https://arxiv.org/abs/2511.18086v1)** | 2025-11-22 | 10 pages |
 

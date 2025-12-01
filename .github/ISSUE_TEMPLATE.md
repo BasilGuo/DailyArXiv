@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 30, 2025
+title: Latest 15 Papers - December 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -90,19 +90,19 @@ labels: documentation
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HPSU: A Benchmark for Human-Level Perception in Real-World Spoken Speech Understanding](https://arxiv.org/abs/2511.23178v1)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[Optical diffraction neural networks assisted computational ghost imaging through dynamic scattering media](https://arxiv.org/abs/2511.22913v1)** | 2025-11-28 |  |
+| **[The Impact of Critique on LLM-Based Model Generation from Natural Language: The Case of Activity Diagrams](https://arxiv.org/abs/2509.03463v2)** | 2025-11-27 |  |
+| **[An Empirical Study of Self-Admitted Technical Debt in Machine Learning Software](https://arxiv.org/abs/2311.12019v3)** | 2025-11-27 |  |
+| **[VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning](https://arxiv.org/abs/2511.00391v2)** | 2025-11-27 | 15 pages, 11 figures |
+| **[From Compound Figures to Composite Understanding: Developing a Multi-Modal LLM from Biomedical Literature with Medical Multiple-Image Benchmarking and Validation](https://arxiv.org/abs/2511.22232v1)** | 2025-11-27 |  |
+| **[$π_\texttt{RL}$: Online RL Fine-tuning for Flow-based Vision-Language-Action Models](https://arxiv.org/abs/2510.25889v2)** | 2025-11-27 | <details><summary>Prepr...</summary><p>Preprint, work in progress. 27 pages</p></details> |
+| **[AfriStereo: A Culturally Grounded Dataset for Evaluating Stereotypical Bias in Large Language Models](https://arxiv.org/abs/2511.22016v1)** | 2025-11-27 |  |
+| **[DialBench: Towards Accurate Reading Recognition of Pointer Meter using Large Foundation Models](https://arxiv.org/abs/2511.21982v1)** | 2025-11-26 |  |
 | **[EvRainDrop: HyperGraph-guided Completion for Effective Frame and Event Stream Aggregation](https://arxiv.org/abs/2511.21439v1)** | 2025-11-26 |  |
 | **[Optimal Integrative Estimation for Distributed Precision Matrices with Heterogeneity Adjustment](https://arxiv.org/abs/2408.06263v2)** | 2025-11-26 |  |
 | **[DiFR: Inference Verification Despite Nondeterminism](https://arxiv.org/abs/2511.20621v1)** | 2025-11-25 |  |
 | **[MTBBench: A Multimodal Sequential Clinical Decision-Making Benchmark in Oncology](https://arxiv.org/abs/2511.20490v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[A Reality Check on SBOM-based Vulnerability Management: An Empirical Study and A Path Forward](https://arxiv.org/abs/2511.20313v1)** | 2025-11-25 |  |
 | **[Transfer Learning for High-dimensional Quantile Regression with Distribution Shift](https://arxiv.org/abs/2411.19933v2)** | 2025-11-25 | 61 pages |
-| **[VeriSciQA: An Auto-Verified Dataset for Scientific Visual Question Answering](https://arxiv.org/abs/2511.19899v1)** | 2025-11-25 |  |
-| **[Realizing Quantum Wireless Sensing Without Extra Reference Sources: Architecture, Algorithm, and Sensitivity Maximization](https://arxiv.org/abs/2504.21234v2)** | 2025-11-25 | <details><summary>A sel...</summary><p>A self-heterodyne sensing approach, which equivalents to an atomic autocorrelator, is proposed to enable high-resolution quantum wireless sensing</p></details> |
-| **[Bridging Symbolic Control and Neural Reasoning in LLM Agents: The Structured Cognitive Loop](https://arxiv.org/abs/2511.17673v2)** | 2025-11-25 | <details><summary>Polis...</summary><p>Polished the abstract and replaced the demonstration screenshots</p></details> |
-| **[BideDPO: Conditional Image Generation with Simultaneous Text and Condition Alignment](https://arxiv.org/abs/2511.19268v1)** | 2025-11-24 | 29 pages |
-| **[SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech](https://arxiv.org/abs/2511.07821v2)** | 2025-11-24 |  |
-| **[Can Large Language Models Detect Misinformation in Scientific News Reporting?](https://arxiv.org/abs/2402.14268v2)** | 2025-11-24 |  |
-| **[RFX: High-Performance Random Forests with GPU Acceleration and QLORA Compression](https://arxiv.org/abs/2511.19493v1)** | 2025-11-23 | <details><summary>39 pa...</summary><p>39 pages, 9 tables, 4 figures</p></details> |
-| **[A pipeline for matching bibliographic references with incomplete metadata: experiments with Crossref and OpenCitations](https://arxiv.org/abs/2511.18408v1)** | 2025-11-23 |  |
-| **[MASS: Motion-Aware Spatial-Temporal Grounding for Physics Reasoning and Comprehension in Vision-Language Models](https://arxiv.org/abs/2511.18373v1)** | 2025-11-23 |  |
 

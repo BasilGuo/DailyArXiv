@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 01, 2025
+title: Latest 15 Papers - December 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -90,6 +90,11 @@ labels: documentation
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spark-Prover-X1: Formal Theorem Proving Through Diverse Data Training](https://arxiv.org/abs/2511.13043v3)** | 2025-12-01 |  |
+| **[VeriSciQA: An Auto-Verified Dataset for Scientific Visual Question Answering](https://arxiv.org/abs/2511.19899v2)** | 2025-12-01 |  |
+| **[2D-ThermAl: Physics-Informed Framework for Thermal Analysis of Circuits using Generative AI](https://arxiv.org/abs/2512.01163v1)** | 2025-12-01 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, Under Review</p></details> |
+| **[ChartAnchor: Chart Grounding with Structural-Semantic Fidelity](https://arxiv.org/abs/2512.01017v1)** | 2025-11-30 |  |
+| **[Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](https://arxiv.org/abs/2512.00883v1)** | 2025-11-30 |  |
 | **[HPSU: A Benchmark for Human-Level Perception in Real-World Spoken Speech Understanding](https://arxiv.org/abs/2511.23178v1)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Optical diffraction neural networks assisted computational ghost imaging through dynamic scattering media](https://arxiv.org/abs/2511.22913v1)** | 2025-11-28 |  |
 | **[The Impact of Critique on LLM-Based Model Generation from Natural Language: The Case of Activity Diagrams](https://arxiv.org/abs/2509.03463v2)** | 2025-11-27 |  |
@@ -100,9 +105,4 @@ labels: documentation
 | **[AfriStereo: A Culturally Grounded Dataset for Evaluating Stereotypical Bias in Large Language Models](https://arxiv.org/abs/2511.22016v1)** | 2025-11-27 |  |
 | **[DialBench: Towards Accurate Reading Recognition of Pointer Meter using Large Foundation Models](https://arxiv.org/abs/2511.21982v1)** | 2025-11-26 |  |
 | **[EvRainDrop: HyperGraph-guided Completion for Effective Frame and Event Stream Aggregation](https://arxiv.org/abs/2511.21439v1)** | 2025-11-26 |  |
-| **[Optimal Integrative Estimation for Distributed Precision Matrices with Heterogeneity Adjustment](https://arxiv.org/abs/2408.06263v2)** | 2025-11-26 |  |
-| **[DiFR: Inference Verification Despite Nondeterminism](https://arxiv.org/abs/2511.20621v1)** | 2025-11-25 |  |
-| **[MTBBench: A Multimodal Sequential Clinical Decision-Making Benchmark in Oncology](https://arxiv.org/abs/2511.20490v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[A Reality Check on SBOM-based Vulnerability Management: An Empirical Study and A Path Forward](https://arxiv.org/abs/2511.20313v1)** | 2025-11-25 |  |
-| **[Transfer Learning for High-dimensional Quantile Regression with Distribution Shift](https://arxiv.org/abs/2411.19933v2)** | 2025-11-25 | 61 pages |
 

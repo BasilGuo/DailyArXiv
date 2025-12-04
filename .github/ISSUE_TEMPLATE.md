@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 02, 2025
+title: Latest 15 Papers - December 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -90,6 +90,14 @@ labels: documentation
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Machine Learning-Driven Solution for Denoising Inertial Confinement Fusion Images](https://arxiv.org/abs/2511.16717v2)** | 2025-12-03 |  |
+| **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
+| **[DeepRule: An Integrated Framework for Automated Business Rule Generation via Deep Predictive Modeling and Hybrid Search Optimization](https://arxiv.org/abs/2512.03607v1)** | 2025-12-03 |  |
+| **[HarnessAgent: Scaling Automatic Fuzzing Harness Construction with Tool-Augmented LLM Pipelines](https://arxiv.org/abs/2512.03420v1)** | 2025-12-03 |  |
+| **[Probabilistic energy profiler for statically typed JVM-based programming languages](https://arxiv.org/abs/2512.02738v1)** | 2025-12-02 |  |
+| **[Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation](https://arxiv.org/abs/2512.02474v1)** | 2025-12-02 | Submitted to KDD2026 |
+| **[TabGRU: An Enhanced Design for Urban Rainfall Intensity Estimation Using Commercial Microwave Links](https://arxiv.org/abs/2512.02465v1)** | 2025-12-02 |  |
+| **[VeriLoRA: Fine-Tuning Large Language Models with Verifiable Security via Zero-Knowledge Proofs](https://arxiv.org/abs/2508.21393v3)** | 2025-12-02 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the Network and Distributed System Security Symposium (NDSS) 2026</p></details> |
 | **[Spark-Prover-X1: Formal Theorem Proving Through Diverse Data Training](https://arxiv.org/abs/2511.13043v3)** | 2025-12-01 |  |
 | **[VeriSciQA: An Auto-Verified Dataset for Scientific Visual Question Answering](https://arxiv.org/abs/2511.19899v2)** | 2025-12-01 |  |
 | **[2D-ThermAl: Physics-Informed Framework for Thermal Analysis of Circuits using Generative AI](https://arxiv.org/abs/2512.01163v1)** | 2025-12-01 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, Under Review</p></details> |
@@ -97,12 +105,4 @@ labels: documentation
 | **[Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](https://arxiv.org/abs/2512.00883v1)** | 2025-11-30 |  |
 | **[HPSU: A Benchmark for Human-Level Perception in Real-World Spoken Speech Understanding](https://arxiv.org/abs/2511.23178v1)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Optical diffraction neural networks assisted computational ghost imaging through dynamic scattering media](https://arxiv.org/abs/2511.22913v1)** | 2025-11-28 |  |
-| **[The Impact of Critique on LLM-Based Model Generation from Natural Language: The Case of Activity Diagrams](https://arxiv.org/abs/2509.03463v2)** | 2025-11-27 |  |
-| **[An Empirical Study of Self-Admitted Technical Debt in Machine Learning Software](https://arxiv.org/abs/2311.12019v3)** | 2025-11-27 |  |
-| **[VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning](https://arxiv.org/abs/2511.00391v2)** | 2025-11-27 | 15 pages, 11 figures |
-| **[From Compound Figures to Composite Understanding: Developing a Multi-Modal LLM from Biomedical Literature with Medical Multiple-Image Benchmarking and Validation](https://arxiv.org/abs/2511.22232v1)** | 2025-11-27 |  |
-| **[$π_\texttt{RL}$: Online RL Fine-tuning for Flow-based Vision-Language-Action Models](https://arxiv.org/abs/2510.25889v2)** | 2025-11-27 | <details><summary>Prepr...</summary><p>Preprint, work in progress. 27 pages</p></details> |
-| **[AfriStereo: A Culturally Grounded Dataset for Evaluating Stereotypical Bias in Large Language Models](https://arxiv.org/abs/2511.22016v1)** | 2025-11-27 |  |
-| **[DialBench: Towards Accurate Reading Recognition of Pointer Meter using Large Foundation Models](https://arxiv.org/abs/2511.21982v1)** | 2025-11-26 |  |
-| **[EvRainDrop: HyperGraph-guided Completion for Effective Frame and Event Stream Aggregation](https://arxiv.org/abs/2511.21439v1)** | 2025-11-26 |  |
 

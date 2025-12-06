@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 05, 2025
+title: Latest 15 Papers - December 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -93,7 +93,7 @@ labels: documentation
 | **[Grounding Large Language Models in Clinical Evidence: A Retrieval-Augmented Generation System for Querying UK NICE Clinical Guidelines](https://arxiv.org/abs/2510.02967v2)** | 2025-12-04 |  |
 | **[OsmT: Bridging OpenStreetMap Queries and Natural Language with Open-source Tag-aware Language Models](https://arxiv.org/abs/2512.04738v1)** | 2025-12-04 | <details><summary>42nd ...</summary><p>42nd IEEE International Conference on Data Engineering (ICDE)</p></details> |
 | **[I2I-Bench: A Comprehensive Benchmark Suite for Image-to-Image Editing Models](https://arxiv.org/abs/2512.04660v1)** | 2025-12-04 |  |
-| **[Dataset creation for supervised deep learning-based analysis of microscopic images - review of important considerations and recommendations](https://arxiv.org/abs/2512.04564v1)** | 2025-12-04 |  |
+| **[Dataset creation for supervised deep learning-based analysis of microscopic images -- review of important considerations and recommendations](https://arxiv.org/abs/2512.04564v1)** | 2025-12-04 |  |
 | **[VideoMem: Enhancing Ultra-Long Video Understanding via Adaptive Memory Management](https://arxiv.org/abs/2512.04540v1)** | 2025-12-04 |  |
 | **[Dual-Stream Spectral Decoupling Distillation for Remote Sensing Object Detection](https://arxiv.org/abs/2512.04413v1)** | 2025-12-04 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, 11 tables</p></details> |
 | **[A Conceptual Model for AI Adoption in Financial Decision-Making: Addressing the Unique Challenges of Small and Medium-Sized Enterprises](https://arxiv.org/abs/2512.04339v1)** | 2025-12-03 | <details><summary>The E...</summary><p>The Eighth International Econometric and Financial Conference of Vietnam - ECONVN2025, Ho Chi Minh City, Vietnam, January 13-14-15, 2025</p></details> |

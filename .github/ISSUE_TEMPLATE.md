@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 07, 2025
+title: Latest 15 Papers - December 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Border Gateway Protocol
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BGPFuzz: Automated Configuration Fuzzing of the Border Gateway Protocol](https://arxiv.org/abs/2512.05358v1)** | 2025-12-05 | 6 pages, 3 figures |
 | **[From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v1)** | 2025-11-18 | 18 pages, 10 figures |
 | **[Seagull: Privacy preserving network verification system](https://arxiv.org/abs/2402.08956v2)** | 2025-11-08 |  |
 | **[Nonlinear Instabilities in Computer Network Dynamics](https://arxiv.org/abs/2511.01886v1)** | 2025-10-24 | <details><summary>PhD T...</summary><p>PhD Thesis, 2003. Advisory Committee: Professor Eyad H. Abed , Chairman Assistant Professor Richard J. La (Co-advisor) Professor P. S. Krishnaprasad Professor Armond M. Makowski Professor Mark I. Freidlin</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Creating a Secure Underlay for the Internet](https://arxiv.org/abs/2206.06879v2)** | 2022-06-15 | Usenix Security 2022 |
 | **[Cutting Through the Noise to Infer Autonomous System Topology](https://arxiv.org/abs/2201.07328v1)** | 2022-01-18 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 1 table. To appear at IEEE INFOCOM 2022. © IEEE 2022</p></details> |
 | **[A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network](https://arxiv.org/abs/2112.12793v1)** | 2021-12-23 | 12 pages, 8 figures |
-| **[BlockJack: Towards Improved Prevention of IP Prefix Hijacking Attacks in Inter-Domain Routing Via Blockchain](https://arxiv.org/abs/2107.07063v1)** | 2021-07-15 |  |
 
 ## BGP Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BGPFuzz: Automated Configuration Fuzzing of the Border Gateway Protocol](https://arxiv.org/abs/2512.05358v1)** | 2025-12-05 | 6 pages, 3 figures |
 | **[From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v1)** | 2025-11-18 | 18 pages, 10 figures |
 | **[Seagull: Privacy preserving network verification system](https://arxiv.org/abs/2402.08956v2)** | 2025-11-08 |  |
 | **[LAPRAD: LLM-Assisted PRotocol Attack Discovery](https://arxiv.org/abs/2510.19264v1)** | 2025-10-22 | <details><summary>IFIP ...</summary><p>IFIP Networking 2025 Proceedings (Accepted on 05.05.2025)</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[SoK: An Introspective Analysis of RPKI Security](https://arxiv.org/abs/2408.12359v1)** | 2024-08-22 | <details><summary>this ...</summary><p>this paper was accepted at USENIX Security '25</p></details> |
 | **[Global BGP Attacks that Evade Route Monitoring](https://arxiv.org/abs/2408.09622v1)** | 2024-08-19 | 10 pages |
 | **[Is it a Real CD Mismatch in Interdomain Routing?](https://arxiv.org/abs/2401.11520v1)** | 2024-01-21 |  |
-| **[MAD-MulW: A Multi-Window Anomaly Detection Framework for BGP Security Events](https://arxiv.org/abs/2312.11225v1)** | 2023-12-18 | 10 pages, 8 figures |
 
 ## RPKI
 | **Title** | **Date** | **Comment** |
@@ -90,6 +90,11 @@ labels: documentation
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
+| **[ToolMind Technical Report: A Large-Scale, Reasoning-Enhanced Tool-Use Dataset](https://arxiv.org/abs/2511.15718v2)** | 2025-12-05 | 15 pages |
+| **[VOST-SGG: VLM-Aided One-Stage Spatio-Temporal Scene Graph Generation](https://arxiv.org/abs/2512.05524v1)** | 2025-12-05 |  |
+| **[Bita: A Conversational Assistant for Fairness Testing](https://arxiv.org/abs/2512.05428v1)** | 2025-12-05 |  |
+| **[VERIRAG: A Post-Retrieval Auditing of Scientific Study Summaries](https://arxiv.org/abs/2507.17948v2)** | 2025-12-05 |  |
 | **[Grounding Large Language Models in Clinical Evidence: A Retrieval-Augmented Generation System for Querying UK NICE Clinical Guidelines](https://arxiv.org/abs/2510.02967v2)** | 2025-12-04 |  |
 | **[OsmT: Bridging OpenStreetMap Queries and Natural Language with Open-source Tag-aware Language Models](https://arxiv.org/abs/2512.04738v1)** | 2025-12-04 | <details><summary>42nd ...</summary><p>42nd IEEE International Conference on Data Engineering (ICDE)</p></details> |
 | **[I2I-Bench: A Comprehensive Benchmark Suite for Image-to-Image Editing Models](https://arxiv.org/abs/2512.04660v1)** | 2025-12-04 |  |
@@ -100,9 +105,4 @@ labels: documentation
 | **[A Machine Learning-Driven Solution for Denoising Inertial Confinement Fusion Images](https://arxiv.org/abs/2511.16717v2)** | 2025-12-03 |  |
 | **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
 | **[DeepRule: An Integrated Framework for Automated Business Rule Generation via Deep Predictive Modeling and Hybrid Search Optimization](https://arxiv.org/abs/2512.03607v1)** | 2025-12-03 |  |
-| **[HarnessAgent: Scaling Automatic Fuzzing Harness Construction with Tool-Augmented LLM Pipelines](https://arxiv.org/abs/2512.03420v1)** | 2025-12-03 |  |
-| **[Probabilistic energy profiler for statically typed JVM-based programming languages](https://arxiv.org/abs/2512.02738v1)** | 2025-12-02 |  |
-| **[Q-BERT4Rec: Quantized Semantic-ID Representation Learning for Multimodal Recommendation](https://arxiv.org/abs/2512.02474v1)** | 2025-12-02 | Submitted to KDD2026 |
-| **[TabGRU: An Enhanced Design for Urban Rainfall Intensity Estimation Using Commercial Microwave Links](https://arxiv.org/abs/2512.02465v1)** | 2025-12-02 |  |
-| **[VeriLoRA: Fine-Tuning Large Language Models with Verifiable Security via Zero-Knowledge Proofs](https://arxiv.org/abs/2508.21393v3)** | 2025-12-02 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the Network and Distributed System Security Symposium (NDSS) 2026</p></details> |
 

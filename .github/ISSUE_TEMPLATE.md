@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 08, 2025
+title: Latest 15 Papers - December 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -29,9 +29,7 @@ labels: documentation
 | **[BGPFuzz: Automated Configuration Fuzzing of the Border Gateway Protocol](https://arxiv.org/abs/2512.05358v1)** | 2025-12-05 | 6 pages, 3 figures |
 | **[From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v1)** | 2025-11-18 | 18 pages, 10 figures |
 | **[Seagull: Privacy preserving network verification system](https://arxiv.org/abs/2402.08956v2)** | 2025-11-08 |  |
-| **[Nonlinear Instabilities in Computer Network Dynamics](https://arxiv.org/abs/2511.01886v1)** | 2025-10-24 | <details><summary>PhD T...</summary><p>PhD Thesis, 2003. Advisory Committee: Professor Eyad H. Abed , Chairman Assistant Professor Richard J. La (Co-advisor) Professor P. S. Krishnaprasad Professor Armond M. Makowski Professor Mark I. Freidlin</p></details> |
 | **[Is Crunching Public Data the Right Approach to Detect BGP Hijacks?](https://arxiv.org/abs/2507.20434v1)** | 2025-07-27 |  |
-| **[Iran's Stealth Internet Blackout: A New Model of Censorship](https://arxiv.org/abs/2507.14183v1)** | 2025-07-12 |  |
 | **[The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages](https://arxiv.org/abs/2506.17821v1)** | 2025-06-21 |  |
 | **[BEAR: BGP Event Analysis and Reporting](https://arxiv.org/abs/2506.04514v1)** | 2025-06-04 |  |
 | **[Latency-Aware Inter-domain Routing](https://arxiv.org/abs/2410.13019v2)** | 2025-03-06 |  |
@@ -41,25 +39,21 @@ labels: documentation
 | **[Creating a Secure Underlay for the Internet](https://arxiv.org/abs/2206.06879v2)** | 2022-06-15 | Usenix Security 2022 |
 | **[Cutting Through the Noise to Infer Autonomous System Topology](https://arxiv.org/abs/2201.07328v1)** | 2022-01-18 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 1 table. To appear at IEEE INFOCOM 2022. © IEEE 2022</p></details> |
 | **[A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network](https://arxiv.org/abs/2112.12793v1)** | 2021-12-23 | 12 pages, 8 figures |
+| **[BlockJack: Towards Improved Prevention of IP Prefix Hijacking Attacks in Inter-Domain Routing Via Blockchain](https://arxiv.org/abs/2107.07063v1)** | 2021-07-15 |  |
+| **[APVAS: Reducing Memory Size of AS\_PATH Validation by Using Aggregate Signatures](https://arxiv.org/abs/2008.13346v1)** | 2020-08-31 |  |
 
 ## BGP Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BGPFuzz: Automated Configuration Fuzzing of the Border Gateway Protocol](https://arxiv.org/abs/2512.05358v1)** | 2025-12-05 | 6 pages, 3 figures |
 | **[From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v1)** | 2025-11-18 | 18 pages, 10 figures |
-| **[Seagull: Privacy preserving network verification system](https://arxiv.org/abs/2402.08956v2)** | 2025-11-08 |  |
-| **[LAPRAD: LLM-Assisted PRotocol Attack Discovery](https://arxiv.org/abs/2510.19264v1)** | 2025-10-22 | <details><summary>IFIP ...</summary><p>IFIP Networking 2025 Proceedings (Accepted on 05.05.2025)</p></details> |
-| **[Is Crunching Public Data the Right Approach to Detect BGP Hijacks?](https://arxiv.org/abs/2507.20434v1)** | 2025-07-27 |  |
-| **[Pruning the Tree: Rethinking RPKI Architecture From The Ground Up](https://arxiv.org/abs/2507.01465v2)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted for publication at NDSS2026</p></details> |
 | **[The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages](https://arxiv.org/abs/2506.17821v1)** | 2025-06-21 |  |
-| **[BEAR: BGP Event Analysis and Reporting](https://arxiv.org/abs/2506.04514v1)** | 2025-06-04 |  |
-| **[IRR-Based AS Type of Relationship Inference](https://arxiv.org/abs/2504.10299v1)** | 2025-04-14 | 19 pages, 7 figures |
-| **[Martians Among Us: Observing Private or Reserved IPs on the Public Internet](https://arxiv.org/abs/2501.16805v1)** | 2025-01-28 |  |
-| **[6Vision: Image-encoding-based IPv6 Target Generation in Few-seed Scenarios](https://arxiv.org/abs/2501.01683v1)** | 2025-01-03 | ICNP 2024 Accepted |
 | **[Ain't How You Deploy: An Analysis of BGP Security Policies Performance Against Various Attack Scenarios with Differing Deployment Strategies](https://arxiv.org/abs/2408.15970v1)** | 2024-08-28 | <details><summary>8 pag...</summary><p>8 pages, 1 table, 8 figures, submitted to and accepted by IEEE ISNCC'24</p></details> |
-| **[SoK: An Introspective Analysis of RPKI Security](https://arxiv.org/abs/2408.12359v1)** | 2024-08-22 | <details><summary>this ...</summary><p>this paper was accepted at USENIX Security '25</p></details> |
 | **[Global BGP Attacks that Evade Route Monitoring](https://arxiv.org/abs/2408.09622v1)** | 2024-08-19 | 10 pages |
-| **[Is it a Real CD Mismatch in Interdomain Routing?](https://arxiv.org/abs/2401.11520v1)** | 2024-01-21 |  |
+| **[MAD-MulW: A Multi-Window Anomaly Detection Framework for BGP Security Events](https://arxiv.org/abs/2312.11225v1)** | 2023-12-18 | 10 pages, 8 figures |
+| **[Validating IP Prefixes and AS-Paths with Blockchains](https://arxiv.org/abs/1906.03172v1)** | 2019-06-07 | <details><summary>draft...</summary><p>draft report on BGP blockchain PoC</p></details> |
+| **[An SDN-based approach to enhance BGP security](https://arxiv.org/abs/1602.06924v2)** | 2016-03-12 |  |
+| **[BGP Security in Partial Deployment: Is the Juice Worth the Squeeze?](https://arxiv.org/abs/1307.2690v1)** | 2013-07-10 |  |
+| **[A Survey on BGP Issues and Solutions](https://arxiv.org/abs/0907.4815v1)** | 2009-07-28 |  |
 
 ## RPKI
 | **Title** | **Date** | **Comment** |
@@ -90,19 +84,14 @@ labels: documentation
 ## Source Address Validation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
-| **[ToolMind Technical Report: A Large-Scale, Reasoning-Enhanced Tool-Use Dataset](https://arxiv.org/abs/2511.15718v2)** | 2025-12-05 | 15 pages |
-| **[VOST-SGG: VLM-Aided One-Stage Spatio-Temporal Scene Graph Generation](https://arxiv.org/abs/2512.05524v1)** | 2025-12-05 |  |
-| **[Bita: A Conversational Assistant for Fairness Testing](https://arxiv.org/abs/2512.05428v1)** | 2025-12-05 |  |
-| **[VERIRAG: A Post-Retrieval Auditing of Scientific Study Summaries](https://arxiv.org/abs/2507.17948v2)** | 2025-12-05 |  |
-| **[Grounding Large Language Models in Clinical Evidence: A Retrieval-Augmented Generation System for Querying UK NICE Clinical Guidelines](https://arxiv.org/abs/2510.02967v2)** | 2025-12-04 |  |
-| **[OsmT: Bridging OpenStreetMap Queries and Natural Language with Open-source Tag-aware Language Models](https://arxiv.org/abs/2512.04738v1)** | 2025-12-04 | <details><summary>42nd ...</summary><p>42nd IEEE International Conference on Data Engineering (ICDE)</p></details> |
-| **[I2I-Bench: A Comprehensive Benchmark Suite for Image-to-Image Editing Models](https://arxiv.org/abs/2512.04660v1)** | 2025-12-04 |  |
-| **[Dataset creation for supervised deep learning-based analysis of microscopic images -- review of important considerations and recommendations](https://arxiv.org/abs/2512.04564v1)** | 2025-12-04 |  |
-| **[VideoMem: Enhancing Ultra-Long Video Understanding via Adaptive Memory Management](https://arxiv.org/abs/2512.04540v1)** | 2025-12-04 |  |
-| **[Dual-Stream Spectral Decoupling Distillation for Remote Sensing Object Detection](https://arxiv.org/abs/2512.04413v1)** | 2025-12-04 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, 11 tables</p></details> |
-| **[A Conceptual Model for AI Adoption in Financial Decision-Making: Addressing the Unique Challenges of Small and Medium-Sized Enterprises](https://arxiv.org/abs/2512.04339v1)** | 2025-12-03 | <details><summary>The E...</summary><p>The Eighth International Econometric and Financial Conference of Vietnam - ECONVN2025, Ho Chi Minh City, Vietnam, January 13-14-15, 2025</p></details> |
-| **[A Machine Learning-Driven Solution for Denoising Inertial Confinement Fusion Images](https://arxiv.org/abs/2511.16717v2)** | 2025-12-03 |  |
-| **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
-| **[DeepRule: An Integrated Framework for Automated Business Rule Generation via Deep Predictive Modeling and Hybrid Search Optimization](https://arxiv.org/abs/2512.03607v1)** | 2025-12-03 |  |
+| **[Grey Rhino Warning: IPv6 is Becoming Fertile Ground for Reflection Amplification Attacks](https://arxiv.org/abs/2506.04768v1)** | 2025-06-05 | <details><summary>This ...</summary><p>This paper has been accepted by IWQoS 2025 as a short paper</p></details> |
+| **[Martians Among Us: Observing Private or Reserved IPs on the Public Internet](https://arxiv.org/abs/2501.16805v1)** | 2025-01-28 |  |
+| **[A Multicast Scheme for Live Streaming Courses in Large-Scale, Geographically Dense Campus Networks](https://arxiv.org/abs/2411.06334v1)** | 2024-11-10 |  |
+| **[Guardians of DNS Integrity: A Remote Method for Identifying DNSSEC Validators Across the Internet](https://arxiv.org/abs/2405.19851v1)** | 2024-05-30 |  |
+| **[Your Router is My Prober: Measuring IPv6 Networks via ICMP Rate Limiting Side Channels](https://arxiv.org/abs/2210.13088v3)** | 2023-05-13 |  |
+| **[The Closed Resolver Project: Measuring the Deployment of Source Address Validation of Inbound Traffic](https://arxiv.org/abs/2006.05277v2)** | 2023-03-15 |  |
+| **[Source Address Validation](https://arxiv.org/abs/2301.09952v1)** | 2023-01-24 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2006.05277, arXiv:2002.00441</p></details> |
+| **[Subverting Stateful Firewalls with Protocol States (Extended Version)](https://arxiv.org/abs/2112.09604v5)** | 2022-08-31 | <details><summary>A sho...</summary><p>A shorter version of this paper is to be presented in NDSS 2022. UPDATE 2021-12-25: Added CVE numbers for Linux and NetBSD. UPDATE 2022-04-13: Fixed some typos, missing words, clarified the meaning of connection-less, named the experiment locations. UPDATE 2022-08-31: re-introduced using NetFilter NumGen to generate random IPv4 IDs (now that NumGen is generated securely)</p></details> |
+| **[Don't Forget to Lock the Front Door! Inferring the Deployment of Source Address Validation of Inbound Traffic](https://arxiv.org/abs/2002.00441v1)** | 2020-02-02 |  |
+| **[SafeZone: A Hierarchical Inter-Domain Authenticated Source Address Validation Solution](https://arxiv.org/abs/1103.3766v1)** | 2011-03-19 |  |
 

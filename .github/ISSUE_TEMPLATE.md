@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 18, 2025
+title: Latest 15 Papers - December 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -58,6 +58,7 @@ labels: documentation
 ## RPKI
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A first look at common RPKI publication practices](https://arxiv.org/abs/2512.16369v1)** | 2025-12-18 |  |
 | **[Pruning the Tree: Rethinking RPKI Architecture From The Ground Up](https://arxiv.org/abs/2507.01465v2)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted for publication at NDSS2026</p></details> |
 | **[Learning to Identify Conflicts in RPKI](https://arxiv.org/abs/2502.03378v1)** | 2025-02-05 |  |
 | **[RPKI-Based Location-Unaware Tor Guard Relay Selection Algorithms](https://arxiv.org/abs/2501.06010v1)** | 2025-01-10 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, for data and intermediate results see: https://torstudy.cs.virginia.edu/ , to be published in Issue 2 of PoPETs 2025</p></details> |

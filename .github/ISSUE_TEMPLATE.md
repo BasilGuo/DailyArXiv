@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 02, 2026
+title: Latest 15 Papers - March 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Border Gateway Protocol
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Border Gateway Protocol Extension for Distributing Endpoint Identifier Reachability Information in Delay-tolerant Networks](https://arxiv.org/abs/2603.01263v1)** | 2026-03-01 | <details><summary>This ...</summary><p>This is the authors' version of a paper that was originally presented at the Space-Terrestrial Internetworking Workshop (STINT'25), which was co-located with the IEEE WiSEE 2025 conference, see https://doi.org/10.1109/WiSEE57913.2025.11229835</p></details> |
 | **[BGPFuzz: Automated Configuration Fuzzing of the Border Gateway Protocol](https://arxiv.org/abs/2512.05358v1)** | 2025-12-05 | 6 pages, 3 figures |
 | **[From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v1)** | 2025-11-18 | 18 pages, 10 figures |
 | **[Seagull: Privacy preserving network verification system](https://arxiv.org/abs/2402.08956v2)** | 2025-11-08 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Cutting Through the Noise to Infer Autonomous System Topology](https://arxiv.org/abs/2201.07328v1)** | 2022-01-18 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 1 table. To appear at IEEE INFOCOM 2022. © IEEE 2022</p></details> |
 | **[A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network](https://arxiv.org/abs/2112.12793v1)** | 2021-12-23 | 12 pages, 8 figures |
 | **[BlockJack: Towards Improved Prevention of IP Prefix Hijacking Attacks in Inter-Domain Routing Via Blockchain](https://arxiv.org/abs/2107.07063v1)** | 2021-07-15 |  |
-| **[APVAS: Reducing Memory Size of AS\_PATH Validation by Using Aggregate Signatures](https://arxiv.org/abs/2008.13346v1)** | 2020-08-31 |  |
 
 ## BGP Security
 | **Title** | **Date** | **Comment** |

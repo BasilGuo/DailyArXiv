@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2026
+title: Latest 15 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,7 @@ labels: documentation
 ## Border Gateway Protocol
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Border Gateway Protocol Extension for Distributing Endpoint Identifier Reachability Information in Delay-tolerant Networks](https://arxiv.org/abs/2603.01263v1)** | 2026-03-01 | <details><summary>This ...</summary><p>This is the authors' version of a paper that was originally presented at the Space-Terrestrial Internetworking Workshop (STINT'25), which was co-located with the IEEE WiSEE 2025 conference, see https://doi.org/10.1109/WiSEE57913.2025.11229835</p></details> |
+| **[A Border Gateway Protocol Extension for Distributing Endpoint Identifier Reachability Information in Delay-tolerant Networks](https://arxiv.org/abs/2603.01263v2)** | 2026-03-03 | <details><summary>This ...</summary><p>This is the authors' version of a paper that was originally presented at the Space-Terrestrial Internetworking Workshop (STINT'25), which was co-located with the IEEE WiSEE 2025 conference, see https://doi.org/10.1109/WiSEE57913.2025.11229835</p></details> |
 | **[BGPFuzz: Automated Configuration Fuzzing of the Border Gateway Protocol](https://arxiv.org/abs/2512.05358v1)** | 2025-12-05 | 6 pages, 3 figures |
 | **[From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v1)** | 2025-11-18 | 18 pages, 10 figures |
 | **[Seagull: Privacy preserving network verification system](https://arxiv.org/abs/2402.08956v2)** | 2025-11-08 |  |

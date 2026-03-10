@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 09, 2026
+title: Latest 15 Papers - March 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -58,6 +58,7 @@ labels: documentation
 ## RPKI
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[pqRPKI: A Practical RPKI Architecture for the Post-Quantum Era](https://arxiv.org/abs/2603.06968v1)** | 2026-03-07 |  |
 | **[A first look at common RPKI publication practices](https://arxiv.org/abs/2512.16369v1)** | 2025-12-18 |  |
 | **[Pruning the Tree: Rethinking RPKI Architecture From The Ground Up](https://arxiv.org/abs/2507.01465v2)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted for publication at NDSS2026</p></details> |
 | **[Learning to Identify Conflicts in RPKI](https://arxiv.org/abs/2502.03378v1)** | 2025-02-05 |  |
@@ -72,7 +73,6 @@ labels: documentation
 | **[Rpkiller: Threat Analysis from an RPKI Relying Party Perspective](https://arxiv.org/abs/2203.00993v1)** | 2022-03-02 | 17 pages |
 | **[Privacy Preserving and Resilient RPKI](https://arxiv.org/abs/2102.02456v1)** | 2021-02-04 |  |
 | **[On the classification and false alarm of invalid prefixes in RPKI based BGP route origin validation](https://arxiv.org/abs/1903.06860v1)** | 2019-03-16 | <details><summary>Accep...</summary><p>Accepted into IFIP/IEEE International Symposium on Integrated Network Management(IM) 2019 as a short paper</p></details> |
-| **[RiPKI: The Tragic Story of RPKI Deployment in the Web Ecosystem](https://arxiv.org/abs/1408.0391v3)** | 2015-11-02 | <details><summary>Previ...</summary><p>Previous arXiv version of this paper has been published under the title "When BGP Security Meets Content Deployment: Measuring and Analysing RPKI-Protection of Websites", Proc. of Fourteenth ACM Workshop on Hot Topics in Networks (HotNets), New York:ACM, 2015</p></details> |
 
 ## SAV
 | **Title** | **Date** | **Comment** |

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 22, 2026
+title: Latest 15 Papers - June 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## BGP
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding the Stealthy BGP Hijacking Risk in the ROV Era](https://arxiv.org/abs/2606.23071v1)** | 2026-06-22 | <details><summary>Publi...</summary><p>Published at ISOC NDSS 2026</p></details> |
+| **[HOWLR: A Client-Driven Approach to BGP Hijack Detection](https://arxiv.org/abs/2606.21845v1)** | 2026-06-20 | 11 pages, 7 figures |
 | **[From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v1)** | 2025-11-18 | 18 pages, 10 figures |
 | **[A Detailed Measurement View on IPv6 Scanners and Their Adaption to BGP Signals](https://arxiv.org/abs/2506.20383v2)** | 2025-09-16 |  |
 | **[Is Crunching Public Data the Right Approach to Detect BGP Hijacks?](https://arxiv.org/abs/2507.20434v1)** | 2025-07-27 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Live Long and Prosper:Analyzing Long-Lived MOAS Prefixes in BGP](https://arxiv.org/abs/2307.08490v1)** | 2023-07-17 |  |
 | **[Oscilloscope: Detecting BGP Hijacks in the Data Plane](https://arxiv.org/abs/2301.12843v1)** | 2023-01-30 |  |
 | **[BGP-Multipath Routing in the Internet](https://arxiv.org/abs/2107.10938v2)** | 2022-05-29 | <details><summary>38 pa...</summary><p>38 pages, 8 figures, 8 tables</p></details> |
-| **[A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network](https://arxiv.org/abs/2112.12793v1)** | 2021-12-23 | 12 pages, 8 figures |
-| **[AS-Level BGP Community Usage Classification](https://arxiv.org/abs/2110.03816v1)** | 2021-10-07 |  |
 
 ## Border Gateway Protocol
 | **Title** | **Date** | **Comment** |

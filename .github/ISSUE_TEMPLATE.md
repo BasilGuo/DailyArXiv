@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 22, 2026
+title: Latest 15 Papers - July 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## BGP
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Worst-Case Optimal BGPs on Temporal Graphs](https://arxiv.org/abs/2607.20356v1)** | 2026-07-22 | <details><summary>exten...</summary><p>extended version to a paper accepted in VLDB 2026</p></details> |
 | **[Understanding the Stealthy BGP Hijacking Risk in the ROV Era](https://arxiv.org/abs/2606.23071v1)** | 2026-06-22 | <details><summary>Publi...</summary><p>Published at ISOC NDSS 2026</p></details> |
 | **[HOWLR: A Client-Driven Approach to BGP Hijack Detection](https://arxiv.org/abs/2606.21845v1)** | 2026-06-20 | 11 pages, 7 figures |
 | **[From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v1)** | 2025-11-18 | 18 pages, 10 figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[LIGHTYEAR: Using Modularity to Scale BGP Control Plane Verification](https://arxiv.org/abs/2204.09635v2)** | 2023-09-20 | <details><summary>12 pa...</summary><p>12 pages (+ 2 pages references), 3 figures, Accepted at SIGCOMM '23</p></details> |
 | **[Live Long and Prosper:Analyzing Long-Lived MOAS Prefixes in BGP](https://arxiv.org/abs/2307.08490v1)** | 2023-07-17 |  |
 | **[Oscilloscope: Detecting BGP Hijacks in the Data Plane](https://arxiv.org/abs/2301.12843v1)** | 2023-01-30 |  |
-| **[BGP-Multipath Routing in the Internet](https://arxiv.org/abs/2107.10938v2)** | 2022-05-29 | <details><summary>38 pa...</summary><p>38 pages, 8 figures, 8 tables</p></details> |
 
 ## Border Gateway Protocol
 | **Title** | **Date** | **Comment** |

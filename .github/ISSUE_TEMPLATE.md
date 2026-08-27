@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2026
+title: Latest 15 Papers - August 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## BGP
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BGPay: An Incentive-Compatible Mechanism for BGP Hijack Filtering](https://arxiv.org/abs/2608.25165v1)** | 2026-08-25 |  |
 | **[The Surprising Effectiveness of LLMs in BGP Security: Mining An Unprecedented Amount of Incidents and Boosting Anomaly Detection](https://arxiv.org/abs/2608.22812v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by IEEE ICNP 2026, 10 pages in main body, 20 pages in total</p></details> |
 | **[Worst-Case Optimal BGPs on Temporal Graphs](https://arxiv.org/abs/2607.20356v1)** | 2026-07-22 | <details><summary>exten...</summary><p>extended version to a paper accepted in VLDB 2026</p></details> |
 | **[Understanding the Stealthy BGP Hijacking Risk in the ROV Era](https://arxiv.org/abs/2606.23071v1)** | 2026-06-22 | <details><summary>Publi...</summary><p>Published at ISOC NDSS 2026</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[MAD-MulW: A Multi-Window Anomaly Detection Framework for BGP Security Events](https://arxiv.org/abs/2312.11225v1)** | 2023-12-18 | 10 pages, 8 figures |
 | **[BGP Typo: A Longitudinal Study and Remedies](https://arxiv.org/abs/2311.00335v1)** | 2023-11-01 |  |
 | **[LIGHTYEAR: Using Modularity to Scale BGP Control Plane Verification](https://arxiv.org/abs/2204.09635v2)** | 2023-09-20 | <details><summary>12 pa...</summary><p>12 pages (+ 2 pages references), 3 figures, Accepted at SIGCOMM '23</p></details> |
-| **[Live Long and Prosper:Analyzing Long-Lived MOAS Prefixes in BGP](https://arxiv.org/abs/2307.08490v1)** | 2023-07-17 |  |
 
 ## Border Gateway Protocol
 | **Title** | **Date** | **Comment** |

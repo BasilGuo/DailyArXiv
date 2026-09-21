@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 20, 2026
+title: Latest 15 Papers - September 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Border Gateway Protocol
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Combining Exploratory Analysis and Automated Analysis for Anomaly Detection in Real-Time Data Streams](https://arxiv.org/abs/2609.21222v1)** | 2026-09-18 |  |
 | **[The Surprising Effectiveness of LLMs in BGP Security: Mining An Unprecedented Amount of Incidents and Boosting Anomaly Detection](https://arxiv.org/abs/2608.22812v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by IEEE ICNP 2026, 10 pages in main body, 20 pages in total</p></details> |
 | **[A Border Gateway Protocol Extension for Distributing Endpoint Identifier Reachability Information in Delay-tolerant Networks](https://arxiv.org/abs/2603.01263v2)** | 2026-03-03 | <details><summary>This ...</summary><p>This is the authors' version of a paper that was originally presented at the Space-Terrestrial Internetworking Workshop (STINT'25), which was co-located with the IEEE WiSEE 2025 conference, see https://doi.org/10.1109/WiSEE57913.2025.11229835</p></details> |
 | **[BGPFuzz: Automated Configuration Fuzzing of the Border Gateway Protocol](https://arxiv.org/abs/2512.05358v1)** | 2025-12-05 | 6 pages, 3 figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Secure Inter-domain Routing and Forwarding via Verifiable Forwarding Commitments](https://arxiv.org/abs/2309.13271v2)** | 2023-11-09 | 16 pages, 17 figures |
 | **[Creating a Secure Underlay for the Internet](https://arxiv.org/abs/2206.06879v2)** | 2022-06-15 | Usenix Security 2022 |
 | **[Cutting Through the Noise to Infer Autonomous System Topology](https://arxiv.org/abs/2201.07328v1)** | 2022-01-18 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 1 table. To appear at IEEE INFOCOM 2022. © IEEE 2022</p></details> |
-| **[A Multi-View Framework for BGP Anomaly Detection via Graph Attention Network](https://arxiv.org/abs/2112.12793v1)** | 2021-12-23 | 12 pages, 8 figures |
 
 ## BGP Security
 | **Title** | **Date** | **Comment** |

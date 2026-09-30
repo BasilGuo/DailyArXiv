@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2026
+title: Latest 15 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,12 +7,12 @@ labels: documentation
 ## BGP
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v2)** | 2026-09-29 | 13 pages, 6 figures |
 | **[BGPay: An Incentive-Compatible Mechanism for BGP Hijack Filtering](https://arxiv.org/abs/2608.25165v1)** | 2026-08-25 |  |
 | **[The Surprising Effectiveness of LLMs in BGP Security: Mining An Unprecedented Amount of Incidents and Boosting Anomaly Detection](https://arxiv.org/abs/2608.22812v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by IEEE ICNP 2026, 10 pages in main body, 20 pages in total</p></details> |
 | **[Worst-Case Optimal BGPs on Temporal Graphs](https://arxiv.org/abs/2607.20356v1)** | 2026-07-22 | <details><summary>exten...</summary><p>extended version to a paper accepted in VLDB 2026</p></details> |
 | **[Understanding the Stealthy BGP Hijacking Risk in the ROV Era](https://arxiv.org/abs/2606.23071v1)** | 2026-06-22 | <details><summary>Publi...</summary><p>Published at ISOC NDSS 2026</p></details> |
 | **[HOWLR: A Client-Driven Approach to BGP Hijack Detection](https://arxiv.org/abs/2606.21845v1)** | 2026-06-20 | 11 pages, 7 figures |
-| **[From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v1)** | 2025-11-18 | 18 pages, 10 figures |
 | **[A Detailed Measurement View on IPv6 Scanners and Their Adaption to BGP Signals](https://arxiv.org/abs/2506.20383v2)** | 2025-09-16 |  |
 | **[Is Crunching Public Data the Right Approach to Detect BGP Hijacks?](https://arxiv.org/abs/2507.20434v1)** | 2025-07-27 |  |
 | **[The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages](https://arxiv.org/abs/2506.17821v1)** | 2025-06-21 |  |
@@ -26,11 +26,11 @@ labels: documentation
 ## Border Gateway Protocol
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v2)** | 2026-09-29 | 13 pages, 6 figures |
 | **[Combining Exploratory Analysis and Automated Analysis for Anomaly Detection in Real-Time Data Streams](https://arxiv.org/abs/2609.21222v1)** | 2026-09-18 |  |
 | **[The Surprising Effectiveness of LLMs in BGP Security: Mining An Unprecedented Amount of Incidents and Boosting Anomaly Detection](https://arxiv.org/abs/2608.22812v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by IEEE ICNP 2026, 10 pages in main body, 20 pages in total</p></details> |
 | **[A Border Gateway Protocol Extension for Distributing Endpoint Identifier Reachability Information in Delay-tolerant Networks](https://arxiv.org/abs/2603.01263v2)** | 2026-03-03 | <details><summary>This ...</summary><p>This is the authors' version of a paper that was originally presented at the Space-Terrestrial Internetworking Workshop (STINT'25), which was co-located with the IEEE WiSEE 2025 conference, see https://doi.org/10.1109/WiSEE57913.2025.11229835</p></details> |
 | **[BGPFuzz: Automated Configuration Fuzzing of the Border Gateway Protocol](https://arxiv.org/abs/2512.05358v1)** | 2025-12-05 | 6 pages, 3 figures |
-| **[From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v1)** | 2025-11-18 | 18 pages, 10 figures |
 | **[Seagull: Privacy preserving network verification system](https://arxiv.org/abs/2402.08956v2)** | 2025-11-08 |  |
 | **[Is Crunching Public Data the Right Approach to Detect BGP Hijacks?](https://arxiv.org/abs/2507.20434v1)** | 2025-07-27 |  |
 | **[The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages](https://arxiv.org/abs/2506.17821v1)** | 2025-06-21 |  |
@@ -45,8 +45,8 @@ labels: documentation
 ## BGP Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v2)** | 2026-09-29 | 13 pages, 6 figures |
 | **[The Surprising Effectiveness of LLMs in BGP Security: Mining An Unprecedented Amount of Incidents and Boosting Anomaly Detection](https://arxiv.org/abs/2608.22812v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by IEEE ICNP 2026, 10 pages in main body, 20 pages in total</p></details> |
-| **[From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v1)** | 2025-11-18 | 18 pages, 10 figures |
 | **[The Blind Spot of BGP Anomaly Detection: Why LSTM Autoencoders Fail on Real-World Outages](https://arxiv.org/abs/2506.17821v1)** | 2025-06-21 |  |
 | **[Ain't How You Deploy: An Analysis of BGP Security Policies Performance Against Various Attack Scenarios with Differing Deployment Strategies](https://arxiv.org/abs/2408.15970v1)** | 2024-08-28 | <details><summary>8 pag...</summary><p>8 pages, 1 table, 8 figures, submitted to and accepted by IEEE ISNCC'24</p></details> |
 | **[Global BGP Attacks that Evade Route Monitoring](https://arxiv.org/abs/2408.09622v1)** | 2024-08-19 | 10 pages |
